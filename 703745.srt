@@ -1,0 +1,4533 @@
+﻿1
+00:01:24,542 --> 00:01:30,173
+ALERTA EN LO PROFUNDO 3
+
+2
+00:01:32,926 --> 00:01:37,347
+Hola, fanáticos de  <i>Shark Week.
+</i>Bienvenidos.
+
+3
+00:01:37,430 --> 00:01:40,517
+Es nuestro tercer verano en Little Happy,
+
+4
+00:01:40,600 --> 00:01:44,145
+un pueblo pesquero abandonado
+en el canal de Mozambique.
+
+5
+00:01:44,229 --> 00:01:48,566
+Los residentes fueron las primeras
+víctimas del aumento de la marea.
+
+6
+00:01:48,650 --> 00:01:52,153
+Ochocientas personas vivían
+en esta pequeña isla artificial.
+
+7
+00:01:53,446 --> 00:01:55,031
+Ahora, solo quedan dos.
+
+8
+00:01:55,323 --> 00:01:58,535
+Y por si estaban pensando
+que esto solo les pasa a otros,
+
+9
+00:01:58,618 --> 00:02:02,414
+así se verán los cayos de Florida.
+
+10
+00:02:02,789 --> 00:02:06,543
+Y Houston y Nueva Orleans.
+
+11
+00:02:08,253 --> 00:02:12,215
+Pero Little Happy tiene otra cara,
+
+12
+00:02:12,298 --> 00:02:14,926
+el criadero de allí.
+
+13
+00:02:17,470 --> 00:02:20,557
+Muy bien, ¿quieren ver? Vamos.
+
+14
+00:02:29,691 --> 00:02:31,359
+<i>Los peces atrajeron al pescador,</i>
+
+15
+00:02:31,443 --> 00:02:34,904
+<i>que construyó este pueblo en un arrecife
+</i> <i>de coral al lado del criadero.</i>
+
+16
+00:02:40,702 --> 00:02:44,748
+<i>Es el hogar de uno de los ecosistemas
+</i> <i>más biodiversos del planeta.</i>
+
+17
+00:02:52,464 --> 00:02:58,094
+<i>En Little Happy, con mi equipo estamos
+</i> <i>creando una base de datos llamada Tritón,</i>
+
+18
+00:02:58,803 --> 00:03:02,807
+<i>que usa sonar e inteligencia artificial
+</i> <i>para identificar</i>
+
+19
+00:03:02,891 --> 00:03:05,852
+<i>y estudiar organismos
+</i> <i>en un área determinada,</i>
+
+20
+00:03:05,935 --> 00:03:07,354
+<i>como este cañón.</i>
+
+21
+00:03:08,355 --> 00:03:12,400
+<i>Desde el gran tiburón blanco
+</i> <i>hasta peces de un centímetro.</i>
+
+22
+00:03:32,170 --> 00:03:36,508
+<i>Los tiburones regresan todos los años
+</i> <i>para alimentarse, aparearse y dar a luz.</i>
+
+23
+00:03:40,637 --> 00:03:44,808
+<i>Su hogar, como el nuestro, está
+</i> <i>siendo atacado por el cambio climático.</i>
+
+24
+00:03:55,110 --> 00:03:59,406
+<i>El océano absorbe más y más emisiones
+</i> <i>de dióxido de carbono cada año,</i>
+
+25
+00:03:59,489 --> 00:04:03,201
+<i>lo que eleva más la temperatura del agua,
+</i> <i>eleva el nivel del mar,</i>
+
+26
+00:04:03,284 --> 00:04:07,872
+<i>hay pérdida de fuente de alimentos,
+</i> <i>acidificación del océano y extinción.</i>
+
+27
+00:04:14,254 --> 00:04:15,797
+<i>¿Estás bien, Shaw?</i>
+
+28
+00:04:16,089 --> 00:04:17,257
+<i>Muchos tiburones.</i>
+
+29
+00:04:17,757 --> 00:04:19,134
+<i>Vamos.</i>
+
+30
+00:04:19,676 --> 00:04:23,972
+<i>Mi padre, Nick Collins, cree
+</i> <i>que estudiar a los tiburones,</i>
+
+31
+00:04:24,055 --> 00:04:27,475
+<i>como a nosotros, superpredadores
+</i> <i>en la punta de la cadena alimenticia,</i>
+
+32
+00:04:27,559 --> 00:04:31,855
+<i>nos ayudará a entender y mejorar
+</i> <i>la salud de todos los ecosistemas.</i>
+
+33
+00:04:31,938 --> 00:04:34,691
+<i>Si los tiburones están en problemas,
+</i> <i>nosotros también.</i>
+
+34
+00:04:36,776 --> 00:04:38,153
+<i>¿Emma?</i>
+
+35
+00:04:40,780 --> 00:04:42,407
+<i>Retrocede, Shaw.</i>
+
+36
+00:04:42,490 --> 00:04:43,658
+<i>¡Detente!</i>
+
+37
+00:04:47,287 --> 00:04:48,997
+<i>Quiero que conozcas a Sally.</i>
+
+38
+00:04:51,458 --> 00:04:54,878
+<i>Ella es la gran blanco que nos trajo
+</i> <i>a este criadero después de etiquetarla.</i>
+
+39
+00:04:56,546 --> 00:04:57,797
+<i>Estuvimos estudiando</i>
+
+40
+00:04:57,881 --> 00:05:02,677
+<i>cómo ella y sus vecinos se están adaptando
+</i> <i>el cambio climático en tiempo real.</i>
+
+41
+00:05:02,761 --> 00:05:04,679
+<i>¿Estás loca?</i>
+
+42
+00:05:06,514 --> 00:05:08,975
+<i>Si te calmas y rediriges...</i>
+
+43
+00:05:10,310 --> 00:05:13,480
+<i>Sally me estaba recordando quién soy.</i>
+
+44
+00:05:13,563 --> 00:05:15,357
+<i>Y quién es ella.</i>
+
+45
+00:05:16,107 --> 00:05:17,484
+<i>No intenten hacer esto en casa.</i>
+
+46
+00:05:19,069 --> 00:05:20,070
+<i>¡Emma!</i>
+
+47
+00:05:22,447 --> 00:05:23,490
+<i>¡Maldición!</i>
+
+48
+00:05:30,163 --> 00:05:32,040
+<i>Demonios. Te lastimaste.</i>
+
+49
+00:05:32,165 --> 00:05:34,167
+<i>- Está bien.
+</i> <i>- Dame el brazo.</i>
+
+50
+00:05:34,250 --> 00:05:36,336
+<i>- Está bien, Shaw.
+</i> <i>- Dame el brazo.</i>
+
+51
+00:05:36,419 --> 00:05:38,129
+<i>- Estoy bien.
+</i> <i>- Estás sangrando.</i>
+
+52
+00:05:38,213 --> 00:05:40,965
+<i>No estás bien. Hay sangre en el agua.</i>
+
+53
+00:05:41,049 --> 00:05:42,676
+<i>Demonios.</i>
+
+54
+00:05:42,759 --> 00:05:46,262
+<i>- Dios mío.
+</i> <i>- Se terminó el buceo. Vamos, volvamos.</i>
+
+55
+00:06:16,793 --> 00:06:17,877
+Eso estuvo increíble.
+
+56
+00:06:18,503 --> 00:06:21,089
+Pueden obtener más información de nuestra
+investigación en nuestro sitio web.
+
+57
+00:06:21,631 --> 00:06:25,260
+Todas las contribuciones son
+para la Fundación Nick Collins Finn.
+
+58
+00:06:25,552 --> 00:06:29,055
+Soy la doctora Emma Collins, él es Shaw,
+
+59
+00:06:29,222 --> 00:06:31,891
+y juntos hacemos el Blog del Agua.
+
+60
+00:06:33,560 --> 00:06:35,103
+Ese tiburón no estaba jugando.
+
+61
+00:06:35,520 --> 00:06:37,480
+¿Sally? Somos viejas amigas.
+
+62
+00:06:38,064 --> 00:06:39,733
+Respeto sano, ¿recuerdas?
+
+63
+00:06:40,025 --> 00:06:41,818
+Parece algo que hubiera dicho mi papá.
+
+64
+00:06:42,360 --> 00:06:43,653
+Tienes razón.
+
+65
+00:06:44,654 --> 00:06:47,198
+Emma, solo quiero que seas
+un poco más cuidadosa.
+
+66
+00:06:47,282 --> 00:06:48,199
+Solo eso.
+
+67
+00:06:48,283 --> 00:06:51,786
+Escucha, Shaw, sé que mi papá era
+tu comandante, y te sientes en deuda,
+
+68
+00:06:51,870 --> 00:06:54,831
+pero estoy bastante grande
+para un consejo parental, ¿sí?
+
+69
+00:06:55,290 --> 00:06:56,124
+Igual te quiero.
+
+70
+00:06:58,168 --> 00:07:00,211
+Necesito una cerveza. ¿Vienes?
+
+71
+00:07:28,865 --> 00:07:29,699
+Es ella.
+
+72
+00:07:30,408 --> 00:07:31,618
+Es Bella.
+
+73
+00:07:32,202 --> 00:07:34,704
+Parece que las redes hicieron
+el trabajo por nosotros.
+
+74
+00:07:35,121 --> 00:07:37,248
+Tenemos que atrapar los otros tres, Lucas.
+
+75
+00:07:37,749 --> 00:07:39,167
+No queda tiempo.
+
+76
+00:07:39,250 --> 00:07:42,379
+¿Cómo lo haremos?
+Tú eres el experto en tiburones,
+
+77
+00:07:42,462 --> 00:07:44,589
+y si ya no podemos rastrear
+a su mamá, se acabó.
+
+78
+00:07:45,632 --> 00:07:47,342
+Bella era una buena madre.
+
+79
+00:07:50,011 --> 00:07:53,431
+Estaba llevando a sus crías
+al mejor bufete del pueblo.
+
+80
+00:08:00,647 --> 00:08:01,815
+Toma.
+
+81
+00:08:05,860 --> 00:08:07,278
+Spin.
+
+82
+00:08:07,487 --> 00:08:09,072
+Eso fue increíble.
+
+83
+00:08:09,155 --> 00:08:12,450
+Y el video debajo del agua
+también fue genial. Mira.
+
+84
+00:08:12,534 --> 00:08:15,286
+<i>Ella es la gran blanco que nos trajo
+</i> <i>a este criadero después de etiquetarla.</i>
+
+85
+00:08:15,370 --> 00:08:17,539
+Conseguirá como 5000 me gustas fácilmente.
+
+86
+00:08:17,622 --> 00:08:19,624
+Lo subiré a Facebook
+y a Instagram esta noche.
+
+87
+00:08:19,708 --> 00:08:20,792
+¿Qué pasó con el dron?
+
+88
+00:08:20,875 --> 00:08:24,838
+Uno de los servos se quemó,
+pero estoy trabajando en eso.
+
+89
+00:08:26,381 --> 00:08:27,590
+Miya.
+
+90
+00:08:29,050 --> 00:08:31,928
+- ¿Está bien?
+- ¿Algo nuevo en el Tritón?
+
+91
+00:08:32,971 --> 00:08:33,972
+Sí.
+
+92
+00:08:34,973 --> 00:08:37,934
+- Aún no puedo encontrarlo.
+- ¿A quién?
+
+93
+00:08:39,269 --> 00:08:40,979
+A Nemo.
+
+94
+00:08:44,149 --> 00:08:46,151
+Si quieres postularte
+a un programa de doctorado decente,
+
+95
+00:08:46,234 --> 00:08:48,028
+será mejor que te esfuerces más.
+
+96
+00:08:52,032 --> 00:08:53,158
+¿Qué?
+
+97
+00:08:53,491 --> 00:08:56,995
+- No hay problema, doctora Collins.
+- Entonces, ¿qué tenemos?
+
+98
+00:08:57,162 --> 00:09:01,374
+Terminé el censo poblacional,
+
+99
+00:09:01,958 --> 00:09:06,338
+y tiene razón, los grandes blancos
+disminuyeron con respecto al año pasado.
+
+100
+00:09:06,421 --> 00:09:07,380
+Un 6 %.
+
+101
+00:09:08,381 --> 00:09:10,508
+- ¿Adultos o crías?
+- Ambos.
+
+102
+00:09:13,053 --> 00:09:14,846
+¿Sorprendida, doctora Collins?
+
+103
+00:09:22,479 --> 00:09:25,190
+No, no puede ser.
+Debe estar funcionando mal.
+
+104
+00:09:25,273 --> 00:09:28,068
+Spin, ¿cómo está la cobertura del Tritón?
+
+105
+00:09:28,151 --> 00:09:31,196
+En este momento,
+estamos a 65 % en el criadero,
+
+106
+00:09:31,279 --> 00:09:33,156
+lo que debería darnos un número decente.
+
+107
+00:09:33,239 --> 00:09:34,699
+No es suficiente, Spin.
+
+108
+00:09:35,992 --> 00:09:38,161
+Ocupémonos de algunos puntos ciegos.
+
+109
+00:09:38,244 --> 00:09:40,663
+Pondremos otra media docena de sensores.
+
+110
+00:09:41,414 --> 00:09:42,415
+Ya me encargo.
+
+111
+00:09:43,583 --> 00:09:44,793
+Los instalaremos mañana.
+
+112
+00:10:21,913 --> 00:10:23,164
+Qué buena pesca.
+
+113
+00:10:23,248 --> 00:10:26,376
+Podríamos haber hecho mucho dinero
+con estos en el restaurante, Nandi.
+
+114
+00:10:26,459 --> 00:10:29,170
+- Lo sé. Parece que fue hace mucho.
+- Sí.
+
+115
+00:10:31,589 --> 00:10:33,341
+Bahari, esto no es vida.
+
+116
+00:10:33,425 --> 00:10:34,509
+Deberíamos irnos.
+
+117
+00:10:34,592 --> 00:10:36,886
+Este es el único hogar
+que conocemos, Nandi.
+
+118
+00:10:36,970 --> 00:10:39,264
+Ya no existe. Mira a tu alrededor.
+
+119
+00:10:39,639 --> 00:10:40,807
+Ya no hay nada aquí para nosotros.
+
+120
+00:10:41,307 --> 00:10:43,018
+- ¿Adónde iríamos?
+- A cualquier lado.
+
+121
+00:10:43,268 --> 00:10:44,269
+Lo resolveremos.
+
+122
+00:10:48,565 --> 00:10:52,068
+Santo cielo. Conozco esa mirada.
+
+123
+00:10:52,402 --> 00:10:54,529
+Mamá tenía la misma.
+
+124
+00:10:55,822 --> 00:10:59,617
+Mira, Nandi, podemos hablar de esto luego.
+
+125
+00:10:59,868 --> 00:11:02,370
+Siempre lo pospones, Bahari.
+
+126
+00:11:03,288 --> 00:11:05,999
+Está bien. Ve a asearte.
+
+127
+00:11:14,549 --> 00:11:17,344
+Estuvo delicioso, Nandi. Gracias.
+
+128
+00:11:17,719 --> 00:11:19,512
+Es un placer para nosotros, Emma.
+
+129
+00:11:20,972 --> 00:11:22,349
+Spin.
+
+130
+00:11:23,558 --> 00:11:25,226
+Spin...
+
+131
+00:11:26,311 --> 00:11:27,687
+¿Por qué no comes pescado?
+
+132
+00:11:29,397 --> 00:11:32,192
+Spin es puro vegano. Un "pegano".
+
+133
+00:11:32,275 --> 00:11:34,778
+Bahari, las opciones alimenticias
+responsables y sustentables
+
+134
+00:11:34,861 --> 00:11:36,071
+no solo son buenas para el medio ambiente,
+
+135
+00:11:36,154 --> 00:11:39,032
+- también son buenas para la salud.
+- Es pescado.
+
+136
+00:11:39,366 --> 00:11:41,159
+Ahórrate el discurso.
+
+137
+00:11:41,284 --> 00:11:45,121
+El mundo está lleno de discursos,
+y mira adónde nos llevó.
+
+138
+00:11:45,205 --> 00:11:47,374
+En eso estamos de acuerdo. ¿Tragos?
+
+139
+00:11:48,166 --> 00:11:49,584
+¿Sí?
+
+140
+00:11:50,001 --> 00:11:51,461
+¿Puedo, doctora Collins?
+
+141
+00:11:51,795 --> 00:11:55,256
+Escucha, Miya, estamos bebiendo juntas,
+puedes llamarme Emma.
+
+142
+00:11:55,423 --> 00:11:56,424
+Adelante.
+
+143
+00:12:00,553 --> 00:12:01,805
+Eres tan sexy.
+
+144
+00:12:03,139 --> 00:12:05,350
+Aguarden, ¿lo dije en voz alta?
+
+145
+00:12:06,601 --> 00:12:08,186
+Saben que todos sabemos lo de ustedes.
+
+146
+00:12:08,687 --> 00:12:09,813
+Está bien.
+
+147
+00:12:09,896 --> 00:12:13,274
+Tenemos costumbres para beber en Japón,
+
+148
+00:12:13,358 --> 00:12:16,569
+y se considera amable
+servirle a los otros.
+
+149
+00:12:16,736 --> 00:12:18,697
+Y el joven
+
+150
+00:12:22,534 --> 00:12:24,035
+le sirve al mayor.
+
+151
+00:12:24,703 --> 00:12:26,705
+¿Yo? ¿Y él?
+
+152
+00:12:27,580 --> 00:12:30,083
+Soy tu superior. Eso no está bien.
+
+153
+00:12:30,166 --> 00:12:31,418
+-Toma.
+-Gracias.
+
+154
+00:12:31,960 --> 00:12:33,169
+Gracias.
+
+155
+00:13:13,126 --> 00:13:15,337
+Las provisiones llegan en una semana.
+
+156
+00:13:15,420 --> 00:13:17,130
+Y no es la lancha de la basura.
+
+157
+00:13:23,845 --> 00:13:25,680
+¿Habías visto ese barco antes?
+
+158
+00:13:28,975 --> 00:13:30,226
+No.
+
+159
+00:13:31,811 --> 00:13:34,272
+Quién sabe, quizá tengan ropa allí.
+
+160
+00:13:34,356 --> 00:13:35,565
+Consigue una camisa que te entre.
+
+161
+00:13:36,983 --> 00:13:38,234
+Iré a ver.
+
+162
+00:13:39,861 --> 00:13:42,781
+¡Emma! No puedo creerlo.
+
+163
+00:13:42,864 --> 00:13:46,159
+- ¿Quién es ese tipo atractivo?
+- Richie Lowell.
+
+164
+00:13:46,534 --> 00:13:49,454
+- Hicieron un posgrado juntos.
+- Genial. ¿Juntos o
+
+165
+00:13:49,788 --> 00:13:50,914
+juntos?
+
+166
+00:13:51,122 --> 00:13:53,541
+- ¿Richard?
+- Hola.
+
+167
+00:13:53,792 --> 00:13:54,959
+¿Cómo estás?
+
+168
+00:13:57,337 --> 00:13:58,922
+- Juntos.
+- Juntos.
+
+169
+00:14:00,882 --> 00:14:03,301
+- Hace muchísimo que no te veo.
+- Sí.
+
+170
+00:14:05,345 --> 00:14:06,513
+¿Qué haces aquí?
+
+171
+00:14:07,389 --> 00:14:08,598
+Necesitamos tu ayuda.
+
+172
+00:14:11,351 --> 00:14:14,145
+Chicos, ellos son Richard y Lucas.
+
+173
+00:14:14,229 --> 00:14:17,190
+Él es Spin. Es nuestro mago
+de la tecnología, graduado de MIT.
+
+174
+00:14:17,315 --> 00:14:19,901
+- Shaw. Recuerdas a Shaw.
+- Un gusto verte, Shaw.
+
+175
+00:14:19,984 --> 00:14:23,697
+- Lo mismo digo, Richie.
+- Es Richard o doctor Lowell ahora.
+
+176
+00:14:23,780 --> 00:14:26,074
+- Tú eliges, Eugene.
+- Y ella es Miya.
+
+177
+00:14:26,157 --> 00:14:28,952
+Es una de nuestras estudiantes
+a préstamo durante el verano,
+
+178
+00:14:29,035 --> 00:14:31,037
+del Instituto Toba de tecnología marítima.
+
+179
+00:14:31,121 --> 00:14:33,498
+- ¿Lo dije bien?
+- Sí. Mucho gusto.
+
+180
+00:14:36,626 --> 00:14:38,878
+- Mucho gusto, señorita.
+- Mucho gusto.
+
+181
+00:14:38,962 --> 00:14:41,006
+Estos chicos necesitan
+un poco de ayuda de nuestro Tritón.
+
+182
+00:14:41,089 --> 00:14:42,340
+¿Qué quieren encontrar?
+
+183
+00:14:42,549 --> 00:14:44,342
+Tres toros.
+
+184
+00:14:44,426 --> 00:14:47,429
+Es un vecindario malo para toros.
+Serían el sushi de los blancos.
+
+185
+00:14:47,512 --> 00:14:50,974
+En general, ese sería el caso,
+pero tenemos un rastreador en uno.
+
+186
+00:14:51,558 --> 00:14:53,268
+Estamos seguros que venían para aquí.
+
+187
+00:14:53,893 --> 00:14:57,522
+Media docena de personas desaparecieron
+a unos 160 km arriba en el río Orange.
+
+188
+00:14:58,356 --> 00:15:00,734
+Al principio, los lugareños pensaron
+que eran cocodrilos.
+
+189
+00:15:00,817 --> 00:15:02,527
+Resulta ser que eran tiburones toros.
+
+190
+00:15:02,610 --> 00:15:04,821
+¿Qué? Pero los tiburones
+no muestran ese tipo de conducta,
+
+191
+00:15:04,904 --> 00:15:06,906
+a menos que estén estresados
+o hambrientos.
+
+192
+00:15:06,990 --> 00:15:08,700
+- Lo sabes.
+- Exactamente.
+
+193
+00:15:08,992 --> 00:15:12,662
+Nos contrataron para que los detengamos
+y descubramos qué sucede.
+
+194
+00:15:12,746 --> 00:15:15,498
+Aguarda, ¿mataron gente en un río?
+
+195
+00:15:15,582 --> 00:15:17,834
+Los tiburones toros
+pueden sobrevivir en agua dulce.
+
+196
+00:15:18,126 --> 00:15:20,587
+Sí, lo entendí enseguida.
+
+197
+00:15:20,670 --> 00:15:22,172
+Trabajaron juntos.
+
+198
+00:15:23,006 --> 00:15:24,591
+Cazaron en manada.
+
+199
+00:15:26,009 --> 00:15:28,636
+No es posible.
+
+200
+00:15:28,720 --> 00:15:30,305
+¿Juntos? ¿Como los delfines?
+
+201
+00:15:30,638 --> 00:15:32,474
+Así es. Lo vi con mis propios ojos.
+
+202
+00:15:33,099 --> 00:15:34,809
+Me cuesta mucho creerlo.
+
+203
+00:15:36,603 --> 00:15:39,439
+Está bien. Miya,
+
+204
+00:15:40,023 --> 00:15:42,275
+¿hay algo en el Tritón?
+
+205
+00:15:42,484 --> 00:15:43,943
+Sí.
+
+206
+00:15:45,195 --> 00:15:51,868
+Hace una semana
+que vi un  <i>Carcharhinus leucas.</i>
+
+207
+00:15:52,744 --> 00:15:54,871
+- Unas decenas de grandes blancos...
+- Ningún toro.
+
+208
+00:15:54,996 --> 00:15:55,997
+No.
+
+209
+00:15:58,208 --> 00:15:59,417
+Ahí tienen.
+
+210
+00:16:00,669 --> 00:16:04,130
+Supongo que eso es una despedida
+y deseos de buena suerte.
+
+211
+00:16:05,340 --> 00:16:09,052
+- Se parece al Blog del Agua.
+- ¿Nos sigues?
+
+212
+00:16:09,511 --> 00:16:11,012
+¿Qué crees?
+
+213
+00:16:11,304 --> 00:16:14,099
+Sabes, es un lugar raro
+para llamar hogar, Em.
+
+214
+00:16:15,183 --> 00:16:16,976
+- Es desagradable.
+- Aquí arriba, sí.
+
+215
+00:16:18,561 --> 00:16:20,730
+Pero allí abajo, es el cielo.
+
+216
+00:16:21,815 --> 00:16:24,943
+Solo tú y los peces, ¿como te gusta?
+
+217
+00:16:25,276 --> 00:16:26,736
+¿Sin signos de humanidad por aquí?
+
+218
+00:16:28,863 --> 00:16:32,367
+¿Quién te culparía?
+Mira lo que hemos hecho.
+
+219
+00:16:33,201 --> 00:16:37,580
+¿Por qué alguien con dos doctorados en
+neurología de tiburones está cazándolos?
+
+220
+00:16:42,502 --> 00:16:45,588
+¿Por qué no subes a bordo
+a tomar algo y te lo digo?
+
+221
+00:16:48,341 --> 00:16:50,844
+Está bien. Bienvenida a bordo.
+
+222
+00:16:53,054 --> 00:16:54,848
+Te has venido a menos, Richard.
+
+223
+00:16:55,306 --> 00:16:56,474
+¿Esta cosa puede flotar?
+
+224
+00:16:56,808 --> 00:16:58,852
+A mi jefe le gusta tener un bajo perfil.
+
+225
+00:17:00,603 --> 00:17:04,232
+Daremos unas vueltas,
+ver si podemos localizar nuestros toros.
+
+226
+00:17:05,191 --> 00:17:06,735
+¿Todo bien, jefe?
+
+227
+00:17:09,487 --> 00:17:11,406
+- ¿Whisky?
+- Estoy buceando.
+
+228
+00:17:12,032 --> 00:17:14,367
+- Pensé que tú también.
+- Agua entonces.
+
+229
+00:17:23,126 --> 00:17:24,377
+Eso es lindo.
+
+230
+00:17:25,545 --> 00:17:26,546
+Sí.
+
+231
+00:17:27,881 --> 00:17:29,424
+¿Alguna vez piensas en nosotros?
+
+232
+00:17:31,843 --> 00:17:33,595
+Claro, a veces.
+
+233
+00:17:34,888 --> 00:17:36,806
+¿Qué piensas?
+
+234
+00:17:37,140 --> 00:17:40,143
+Que fue feo cuando mi papá murió,
+y tú aceptaste ese trabajo en Sídney.
+
+235
+00:17:42,312 --> 00:17:44,606
+Pero quizá estamos donde deberíamos estar.
+
+236
+00:17:45,815 --> 00:17:47,317
+Quizá.
+
+237
+00:17:51,946 --> 00:17:54,949
+- Bella.
+- Sí.
+
+238
+00:17:55,325 --> 00:17:57,619
+- ¿Es el tiburón que rastreaste?
+- Sí.
+
+239
+00:17:57,702 --> 00:17:59,788
+Sí, la encontré ayer, muerta.
+
+240
+00:18:00,580 --> 00:18:02,624
+Solo intentaba descubrir
+si podía aprender algo
+
+241
+00:18:02,707 --> 00:18:03,875
+de su cerebro.
+
+242
+00:18:03,958 --> 00:18:05,835
+- ¿Pudiste?
+- Desafortunadamente, no.
+
+243
+00:18:06,670 --> 00:18:08,254
+Eso sigue encendido.
+
+244
+00:18:10,006 --> 00:18:11,216
+Sí.
+
+245
+00:18:11,883 --> 00:18:13,343
+¿Quién paga?
+
+246
+00:18:14,010 --> 00:18:15,261
+Laboratorio Genotics.
+
+247
+00:18:16,137 --> 00:18:18,723
+Lo sé. Los jefes supremos
+de la corporación.
+
+248
+00:18:18,807 --> 00:18:21,601
+Hago algunos proyectos para ellos,
+y ellos financian mi investigación.
+
+249
+00:18:21,685 --> 00:18:23,687
+¿Trabajas para los grandes laboratorios?
+
+250
+00:18:23,770 --> 00:18:27,190
+Aceptémoslo. El cambio climático
+llegó para quedarse, Emma.
+
+251
+00:18:28,108 --> 00:18:29,818
+El mundo se achicará mucho más.
+
+252
+00:18:29,901 --> 00:18:31,486
+Y le hará ganar mucho dinero
+a algunas personas.
+
+253
+00:18:32,112 --> 00:18:34,614
+- La capilla Sixtina...
+- No se pagó sola.
+
+254
+00:18:38,576 --> 00:18:41,413
+Escucha...
+
+255
+00:18:42,789 --> 00:18:45,500
+Mantente afuera del agua hasta
+que hayamos terminado nuestro trabajo.
+
+256
+00:18:46,126 --> 00:18:47,669
+Es solo una precaución.
+
+257
+00:18:49,045 --> 00:18:51,548
+Gracias, pero nosotros también
+estamos trabajando aquí.
+
+258
+00:18:53,550 --> 00:18:54,968
+La misma Emma de siempre.
+
+259
+00:18:56,052 --> 00:18:57,512
+El mismo Richard de siempre.
+
+260
+00:18:59,639 --> 00:19:01,433
+- ¿Puedo mirar?
+- Claro.
+
+261
+00:19:01,516 --> 00:19:05,770
+Adelante. Pero no toques nada
+que parezca caro, ¿sí?
+
+262
+00:19:06,271 --> 00:19:07,439
+Está bien.
+
+263
+00:19:22,287 --> 00:19:24,497
+Brown guiará el recorrido.
+Fue el que más profundo se sumergió.
+
+264
+00:19:24,581 --> 00:19:27,167
+Asegúrense de cubrirlo.
+Déjenlo ir más abajo.
+
+265
+00:19:28,418 --> 00:19:29,961
+Bajaremos unos 27 metros.
+
+266
+00:19:35,216 --> 00:19:37,260
+<i>Miya, control de comunicación.</i>
+
+267
+00:19:37,635 --> 00:19:40,388
+<i>La escucho fuerte y claro,
+</i> <i>doctora Collins.</i>
+
+268
+00:19:48,104 --> 00:19:49,314
+<i>Me sumerjo más.</i>
+
+269
+00:19:50,398 --> 00:19:53,193
+<i>Cuidado, hay tiburones a su alrededor.</i>
+
+270
+00:20:02,202 --> 00:20:06,664
+Se está acercando
+a uno de nuestro puntos ciegos ahora.
+
+271
+00:20:06,831 --> 00:20:08,083
+<i>Copiado, Miya.</i>
+
+272
+00:20:09,376 --> 00:20:11,002
+<i>Me dirijo a la pared del criadero.</i>
+
+273
+00:20:29,187 --> 00:20:31,314
+<i>Bien, equipo, ¿cómo se ve?</i>
+
+274
+00:20:32,190 --> 00:20:34,943
+<i>Hay muchos punta negras aquí. Ningún toro.</i>
+
+275
+00:20:38,321 --> 00:20:40,448
+<i>Creo que tendremos que sumergirnos más.</i>
+
+276
+00:20:48,456 --> 00:20:50,542
+<i>Activando el sensor ahora, Miya.</i>
+
+277
+00:20:53,378 --> 00:20:55,672
+Listo para la frecuencia y datos.
+
+278
+00:20:56,172 --> 00:20:57,173
+Siguiente.
+
+279
+00:21:04,764 --> 00:21:06,766
+<i>Brown, sumérgete más.</i>
+
+280
+00:21:06,850 --> 00:21:09,436
+<i>-Quédate paralelo a nosotros.
+</i> <i>-Pero ¿será seguro?</i>
+
+281
+00:21:19,571 --> 00:21:22,699
+<i>-Bien, dividámonos.
+</i> <i>-Entendido, jefe.</i>
+
+282
+00:21:23,074 --> 00:21:24,075
+<i>Copiado.</i>
+
+283
+00:21:24,701 --> 00:21:25,952
+<i>Feliz cacería.</i>
+
+284
+00:22:07,369 --> 00:22:09,245
+<i>Me dirijo al siguiente punto ciego.</i>
+
+285
+00:22:10,872 --> 00:22:12,332
+<i>Entendido, doctora Collins.</i>
+
+286
+00:22:23,885 --> 00:22:25,303
+<i>Tenemos un problema.</i>
+
+287
+00:22:29,099 --> 00:22:30,642
+Emma, ¿qué sucede?
+
+288
+00:22:32,477 --> 00:22:33,561
+<i>Demonios.</i>
+
+289
+00:22:33,812 --> 00:22:36,898
+<i>Tenemos dos grandes blancos aquí abajo.
+</i> <i>Asesinados recientemente.</i>
+
+290
+00:22:42,654 --> 00:22:44,823
+Creí haberte dicho
+que te mantuvieras alejada del agua.
+
+291
+00:22:47,742 --> 00:22:49,035
+Cálmate.
+
+292
+00:22:53,665 --> 00:22:54,916
+Cálmate.
+
+293
+00:22:57,919 --> 00:23:02,298
+Emma, hay un toro en el campo.
+Es grande y se mueve rápido.
+
+294
+00:23:02,382 --> 00:23:03,717
+<i>Tiburón.</i>
+
+295
+00:23:05,510 --> 00:23:06,886
+Salgan del criadero ahora.
+
+296
+00:23:07,387 --> 00:23:09,556
+Está en un vector hacia uno de los buzos.
+
+297
+00:23:09,639 --> 00:23:13,518
+<i>Lucas, hay un tiburón toro en el criadero
+</i> <i>acercándose a nosotros. Copiado.</i>
+
+298
+00:23:13,810 --> 00:23:17,397
+<i>Nuestro día de suerte, chicos.
+</i> <i>Cuidado a tus seis.</i>
+
+299
+00:23:17,605 --> 00:23:19,733
+<i>Entendido, jefe. Estamos alertas.</i>
+
+300
+00:23:20,233 --> 00:23:21,860
+<i>Vamos, malditos escurridizos.</i>
+
+301
+00:23:24,279 --> 00:23:26,364
+<i>Brown, ¿dónde estás?</i>
+
+302
+00:23:27,115 --> 00:23:29,659
+Subiendo en el suroeste,
+a 27 metros de profundidad.
+
+303
+00:23:34,205 --> 00:23:35,915
+<i>Brown, ¿me copias?</i>
+
+304
+00:23:40,170 --> 00:23:42,505
+<i>- ¿Donde...?
+</i> <i>- Allí está, lo veo.</i>
+
+305
+00:23:42,714 --> 00:23:45,050
+<i>Está bien. Ahora lo vemos.</i>
+
+306
+00:23:45,508 --> 00:23:46,634
+<i>Bien.</i>
+
+307
+00:23:54,684 --> 00:23:56,102
+<i>¡A la mierda!</i>
+
+308
+00:24:11,368 --> 00:24:12,911
+Debería volver con mi equipo.
+
+309
+00:24:14,037 --> 00:24:17,874
+¿Tus toros también le hicieron eso
+a los grandes blancos?
+
+310
+00:24:18,500 --> 00:24:19,417
+Sí.
+
+311
+00:24:19,751 --> 00:24:21,586
+Esos tiburones no se comportan
+como tiburones, Richard.
+
+312
+00:24:22,003 --> 00:24:24,798
+Usan los criaderos de gran blanco
+como fuente confiable de alimento.
+
+313
+00:24:24,881 --> 00:24:26,758
+¿Por qué no nos dijiste eso
+desde el comienzo?
+
+314
+00:24:26,841 --> 00:24:29,761
+Los grandes blancos son rápidos y fuertes.
+Se comen a los toros como si nada.
+
+315
+00:24:29,844 --> 00:24:32,889
+No estos. Mi teoría es
+que se están adaptando al cambio climático
+
+316
+00:24:32,972 --> 00:24:34,265
+más rápido que los blancos,
+
+317
+00:24:34,516 --> 00:24:37,268
+lo que los torna muy agresivos
+contra todo.
+
+318
+00:24:37,686 --> 00:24:39,688
+Me contrataron para realizar
+una evaluación neurológica.
+
+319
+00:24:39,771 --> 00:24:41,398
+¿Para que Genotics puede ganar
+dinero con ellos?
+
+320
+00:24:41,481 --> 00:24:43,566
+¡Sabes, Emma,
+acabo de perder a un hombre allí abajo!
+
+321
+00:24:47,070 --> 00:24:48,530
+¿Qué hacemos?
+
+322
+00:24:49,906 --> 00:24:52,492
+Si no sacamos
+a esos tiburones del agua ahora,
+
+323
+00:24:54,160 --> 00:24:56,246
+destruirán todo
+lo que estamos tratando de salvar.
+
+324
+00:25:04,796 --> 00:25:07,132
+Lo más aterrador que he visto en mi vida.
+
+325
+00:25:08,133 --> 00:25:10,427
+Cómo Brown conducía el scooter submarino,
+
+326
+00:25:10,552 --> 00:25:12,595
+como si no supiera que estaba muerto.
+
+327
+00:25:12,887 --> 00:25:15,515
+Faltaban 16 kilómetros
+para que se acabara su batería. Piénsalo.
+
+328
+00:25:15,765 --> 00:25:18,018
+Podría haber sido cualquier
+de nosotros. Tú, yo...
+
+329
+00:25:18,351 --> 00:25:19,352
+Yo no.
+
+330
+00:25:21,271 --> 00:25:23,440
+Conocí a Brown hace 15 años.
+
+331
+00:25:23,648 --> 00:25:25,942
+Me apoyó más veces
+de las que puedo contar.
+
+332
+00:25:26,026 --> 00:25:28,278
+Así que, si tienen que hablar de él,
+
+333
+00:25:29,195 --> 00:25:30,655
+muestren un poco de respeto.
+
+334
+00:25:34,034 --> 00:25:35,910
+Equípense. Nos meteremos en 30.
+
+335
+00:25:35,994 --> 00:25:36,995
+- Copiado.
+- Copiado.
+
+336
+00:25:39,873 --> 00:25:42,000
+Emma, ¿de verdad lo ayudarás?
+
+337
+00:25:43,043 --> 00:25:44,044
+Lo haremos.
+
+338
+00:25:45,587 --> 00:25:47,297
+Acabamos de perder a una persona,
+
+339
+00:25:48,423 --> 00:25:50,884
+y al menos, a dos grandes blancos adultos.
+
+340
+00:25:50,967 --> 00:25:52,552
+No podemos permitirnos perder nada más.
+
+341
+00:25:55,472 --> 00:25:56,973
+Sé que tú y Richard fueron íntimos.
+
+342
+00:25:57,057 --> 00:25:58,975
+Sí, y sé que a ti y a papá
+nunca les agradó.
+
+343
+00:25:59,059 --> 00:26:01,144
+¿A quién le importa si me cae bien?
+
+344
+00:26:01,227 --> 00:26:02,771
+No confío en él.
+
+345
+00:26:03,355 --> 00:26:04,481
+Tú, ¿sí?
+
+346
+00:26:07,692 --> 00:26:09,611
+- ¿Spin?
+- Sí.
+
+347
+00:26:09,861 --> 00:26:13,573
+¿Puedes hacer el historial
+de una señal de rastreo de GPS?
+
+348
+00:26:14,199 --> 00:26:15,950
+Depende de qué tipo de rastreador.
+
+349
+00:26:16,534 --> 00:26:18,536
+El toro en el laboratorio
+de Richard, Bella.
+
+350
+00:26:18,620 --> 00:26:22,248
+La etiquetaron con un baliza de conversión
+acústica a radial.
+
+351
+00:26:22,332 --> 00:26:24,668
+Es un aparato tecnológico
+bastante complicado.
+
+352
+00:26:24,876 --> 00:26:30,006
+Pero tú puedes hacer el historial
+de cualquier baliza con GPS.
+
+353
+00:26:30,840 --> 00:26:32,050
+¿O no, Spin?
+
+354
+00:26:32,717 --> 00:26:35,512
+Sí, claro. Es decir, puedo intentarlo.
+
+355
+00:26:35,595 --> 00:26:38,139
+- Puedes hacer más que intentar.
+- Claro.
+
+356
+00:26:38,682 --> 00:26:40,225
+Lo haré. Sí.
+
+357
+00:26:44,521 --> 00:26:45,814
+¿Alguna vez escucharon
+lo que es tocar la puerta?
+
+358
+00:26:47,982 --> 00:26:49,984
+Tenemos un plan. Lucas.
+
+359
+00:26:50,527 --> 00:26:53,154
+Creemos que es mejor usar
+un dron submarino
+
+360
+00:26:53,238 --> 00:26:56,282
+que imite los movimientos
+y el campo eléctrico de una foca.
+
+361
+00:26:56,574 --> 00:26:58,243
+Y que también destile sangre de foca.
+
+362
+00:26:58,326 --> 00:26:59,661
+A los tiburones les gustan las focas.
+
+363
+00:27:00,078 --> 00:27:01,079
+Gracias por ese dato.
+
+364
+00:27:02,831 --> 00:27:05,041
+Nos instalaremos en su criadero
+
+365
+00:27:05,125 --> 00:27:07,961
+y usaremos su sistema Tritón
+como nuestro observador.
+
+366
+00:27:09,546 --> 00:27:11,089
+Y, con suerte,
+ustedes nos advertirán, ¿sí?
+
+367
+00:27:15,427 --> 00:27:16,428
+Genial.
+
+368
+00:27:16,511 --> 00:27:19,180
+Traeremos a un hombre aquí y pueden
+mostrarle cómo funciona el sistema.
+
+369
+00:27:20,306 --> 00:27:21,474
+Gracias.
+
+370
+00:27:24,102 --> 00:27:26,604
+Gracias por traer a un hombre rudo aquí,
+
+371
+00:27:26,688 --> 00:27:29,441
+porque esta niña con un título
+
+372
+00:27:29,524 --> 00:27:32,902
+en ingeniería en propulsión
+acústica ambiental no puede manejarlo.
+
+373
+00:27:34,571 --> 00:27:38,867
+Sin ofender, Emma, pero a veces,
+un hombre fuerte solo quiere ayudar.
+
+374
+00:27:39,409 --> 00:27:41,077
+Y es solo una niña.
+
+375
+00:27:42,620 --> 00:27:44,706
+Yo puedo, abuelo.
+
+376
+00:27:48,460 --> 00:27:49,586
+¿Qué tienen allí, amigos?
+
+377
+00:27:50,086 --> 00:27:53,715
+Un coctel de haloperidol.
+Preferimos atrapar a nuestros toros vivos.
+
+378
+00:27:53,965 --> 00:27:56,217
+Sí, también tenemos de esos.
+
+379
+00:27:56,551 --> 00:27:58,011
+¿Qué son esos?
+
+380
+00:27:58,636 --> 00:28:00,055
+Puntas explosivas
+
+381
+00:28:00,805 --> 00:28:02,682
+para cuando no los queremos vivos.
+
+382
+00:28:03,516 --> 00:28:05,185
+Pero todo este lugar se está desmoronando.
+
+383
+00:28:05,268 --> 00:28:08,688
+Si una de esas cosas le da a un pilotaje,
+lo que queda de este pueblo se hundirá.
+
+384
+00:28:08,772 --> 00:28:11,149
+No hay de qué preocuparse.
+Mis hombres no fallan.
+
+385
+00:28:12,484 --> 00:28:15,195
+Quiero saber cuándo su problema
+de tiburones se convirtió en el nuestro.
+
+386
+00:28:15,278 --> 00:28:16,821
+Porque estamos juntos en esto.
+
+387
+00:28:16,905 --> 00:28:19,115
+Qué alegría, Richie.
+
+388
+00:28:20,992 --> 00:28:21,993
+Em,
+
+389
+00:28:22,619 --> 00:28:25,872
+no puedes esperar que sumerja
+a mis hombres sin que puedan defenderse.
+
+390
+00:28:30,543 --> 00:28:32,170
+Spin, dales acceso
+a nuestro sistema de comunicación.
+
+391
+00:28:32,837 --> 00:28:33,838
+Entendido.
+
+392
+00:28:35,882 --> 00:28:38,343
+Y, Miya, si ves a un toro,
+infórmales a todos, ¿sí?
+
+393
+00:28:38,426 --> 00:28:39,302
+Claro.
+
+394
+00:28:40,637 --> 00:28:41,513
+Emma.
+
+395
+00:28:43,348 --> 00:28:44,474
+Gracias.
+
+396
+00:29:47,245 --> 00:29:48,997
+El gran blanco.
+
+397
+00:29:50,123 --> 00:29:51,416
+Mira esto.
+
+398
+00:29:52,876 --> 00:29:54,961
+Sally se mantiene en el fondo del mar.
+
+399
+00:29:55,545 --> 00:29:56,379
+Eso es muy extraño
+
+400
+00:29:56,463 --> 00:29:58,465
+porque estuvieron largando
+muchísima sangre de foca.
+
+401
+00:29:58,965 --> 00:30:00,258
+Quizá tengan miedo.
+
+402
+00:30:14,230 --> 00:30:15,940
+<i>Largaré la sangre cuando estén listos.</i>
+
+403
+00:30:16,024 --> 00:30:17,233
+<i>Entendido.</i>
+
+404
+00:30:33,041 --> 00:30:35,543
+<i>- Solo avísame, Lucas.
+</i> <i>- Copiado.</i>
+
+405
+00:30:54,479 --> 00:30:56,022
+¿Puedo preguntarte algo, Emma?
+
+406
+00:30:56,106 --> 00:30:57,107
+Sí, ¿qué?
+
+407
+00:31:01,194 --> 00:31:02,362
+No.
+
+408
+00:31:03,029 --> 00:31:04,739
+Hablaremos como chicas, ¿no?
+
+409
+00:31:06,491 --> 00:31:07,742
+Me gusta Spin.
+
+410
+00:31:09,619 --> 00:31:10,578
+Es decir,
+
+411
+00:31:11,413 --> 00:31:12,747
+me gusta mucho.
+
+412
+00:31:13,873 --> 00:31:15,208
+Sí, es un chico dulce.
+
+413
+00:31:19,671 --> 00:31:20,505
+Bien.
+
+414
+00:31:24,509 --> 00:31:27,470
+Veamos dónde estuviste,  <i>Thasos </i>.
+
+415
+00:31:28,680 --> 00:31:31,558
+Si te hace feliz, adelante.
+
+416
+00:31:31,808 --> 00:31:34,978
+Está bien. ¿Es todo lo que me dirás?
+
+417
+00:31:35,603 --> 00:31:37,397
+¿No te preocupes, sé feliz?
+
+418
+00:31:37,480 --> 00:31:38,314
+Sí.
+
+419
+00:31:39,357 --> 00:31:43,069
+Soy buena con los peces,
+mala con las personas.
+
+420
+00:31:46,156 --> 00:31:48,533
+- Sí, ¿crees que es gracioso?
+- Quizá.
+
+421
+00:31:48,742 --> 00:31:50,035
+Genial.
+
+422
+00:31:54,622 --> 00:31:57,167
+<i>Listo para enviar
+</i> <i>el dron hacia tu posición.</i>
+
+423
+00:31:58,126 --> 00:31:59,461
+<i>Entendido.</i>
+
+424
+00:32:13,224 --> 00:32:14,809
+Mierda.
+
+425
+00:32:29,199 --> 00:32:30,367
+Tiburón toro.
+
+426
+00:32:30,450 --> 00:32:32,118
+<i>Acabamos de recibir la señal.
+</i> <i>Toro en camino.</i>
+
+427
+00:32:32,202 --> 00:32:34,162
+175 grados al suroeste.
+
+428
+00:32:34,245 --> 00:32:35,830
+Profundidad 18 y bajando.
+
+429
+00:32:36,456 --> 00:32:38,291
+Está yendo hacia su equipo, doctor Lowell.
+
+430
+00:32:38,541 --> 00:32:40,293
+<i>Avistamos a uno de los tiburones.</i>
+
+431
+00:32:40,377 --> 00:32:41,795
+<i>Entendido, señor. Copiado.</i>
+
+432
+00:32:44,798 --> 00:32:47,050
+Dio la vuelta. Está en la caleta.
+
+433
+00:32:47,759 --> 00:32:49,678
+<i>Estoy más cerca de esa posición.</i>
+
+434
+00:32:49,928 --> 00:32:50,804
+<i>Richie.</i>
+
+435
+00:32:50,887 --> 00:32:53,348
+<i>Es demasiado riesgoso. Espéranos.</i>
+
+436
+00:32:53,890 --> 00:32:55,058
+<i>No, Lucas. Quédate allí.</i>
+
+437
+00:32:55,141 --> 00:32:57,435
+<i>Lo llevaré devuelta al criadero
+</i> <i>donde podrás atraparlo.</i>
+
+438
+00:32:57,519 --> 00:32:59,896
+<i>Repito, espéranos.</i>
+
+439
+00:33:04,442 --> 00:33:05,694
+- Sigue hablándole.
+- Está bien.
+
+440
+00:33:05,860 --> 00:33:07,862
+Cuidado. Sigue en la caleta.
+
+441
+00:33:12,283 --> 00:33:15,120
+<i>Richard, ese toro está fuera del cuadro.
+</i> <i>No lo verás venir.</i>
+
+442
+00:33:25,505 --> 00:33:27,382
+Richard, no entres a la caleta.
+
+443
+00:33:27,716 --> 00:33:30,427
+No es seguro allí.
+No podemos verte con Tritón.
+
+444
+00:33:30,635 --> 00:33:33,555
+<i>Estoy bien. Solo mantengan
+</i> <i>los ojos abiertos por los otros dos.</i>
+
+445
+00:33:39,019 --> 00:33:40,061
+<i>Richard, ¡tiburón!</i>
+
+446
+00:33:40,395 --> 00:33:41,438
+<i>¡Tiburón toro!</i>
+
+447
+00:33:46,234 --> 00:33:47,193
+<i>¡Richard!</i>
+
+448
+00:33:48,111 --> 00:33:49,070
+<i>¡Richard!</i>
+
+449
+00:33:56,953 --> 00:33:57,871
+¡Richard!
+
+450
+00:33:59,330 --> 00:34:00,373
+¡Emma!
+
+451
+00:34:42,332 --> 00:34:44,042
+Agárrale las piernas.
+
+452
+00:34:49,381 --> 00:34:50,382
+Respira.
+
+453
+00:34:50,590 --> 00:34:52,967
+Lucas, saca al tiburón del agua.
+
+454
+00:34:53,259 --> 00:34:55,553
+Súbelo al bote y sédalo.
+
+455
+00:34:56,971 --> 00:34:58,431
+- Te quitaré esto, ¿sí?
+- Sí.
+
+456
+00:34:58,973 --> 00:35:00,517
+Bien, uno, dos...
+
+457
+00:35:02,644 --> 00:35:03,603
+Bien.
+
+458
+00:35:20,912 --> 00:35:22,455
+Sí, hazlo. Hazlo.
+
+459
+00:35:26,084 --> 00:35:27,210
+Muy bien.
+
+460
+00:35:28,294 --> 00:35:31,172
+El tejido de la malla valió cada centavo.
+
+461
+00:35:31,256 --> 00:35:33,758
+Qué bueno que el tiburón estaba durmiendo
+cuando te mordió.
+
+462
+00:35:35,969 --> 00:35:37,262
+Muy graciosa.
+
+463
+00:35:37,679 --> 00:35:39,597
+Mírale el lado positivo, ¿no?
+
+464
+00:35:40,140 --> 00:35:43,143
+No tendrás que volver a pagar
+un trago en tu vida.
+
+465
+00:35:45,061 --> 00:35:46,604
+¿Me comprarás un trago?
+
+466
+00:35:49,816 --> 00:35:50,984
+Tal vez.
+
+467
+00:35:51,735 --> 00:35:55,488
+¿Me escucharías
+mientras te cuento la historia de la vez
+
+468
+00:35:55,572 --> 00:35:58,116
+que un toro joven
+casi me muerde por la mitad?
+
+469
+00:35:58,908 --> 00:36:01,244
+Pero que luché contra él solo
+
+470
+00:36:01,327 --> 00:36:06,332
+y luego me liberé.
+Diente por diente por diente.
+
+471
+00:36:06,583 --> 00:36:07,959
+Fue muy valiente.
+
+472
+00:36:08,043 --> 00:36:10,253
+Sí, te compraría un trago.
+
+473
+00:36:13,631 --> 00:36:15,675
+Pero no te creería
+ni una palabra de lo que digas.
+
+474
+00:36:19,012 --> 00:36:21,723
+Y sí acaban de morderse la mitad
+de uno de tus hombres.
+
+475
+00:36:28,104 --> 00:36:30,190
+Gracias por salvarme la vida allí.
+
+476
+00:36:32,901 --> 00:36:34,444
+Hubieras hecho lo mismo.
+
+477
+00:36:39,449 --> 00:36:40,950
+Debería volver a mi barco.
+
+478
+00:36:42,494 --> 00:36:44,329
+Quiero ver ese tiburón.
+
+479
+00:37:07,769 --> 00:37:08,978
+Se enganchó.
+
+480
+00:37:28,998 --> 00:37:31,918
+No. Mi anzuelo de la suerte no.
+
+481
+00:38:06,453 --> 00:38:07,537
+Es hermosa.
+
+482
+00:38:10,623 --> 00:38:11,916
+Es joven.
+
+483
+00:38:13,084 --> 00:38:14,586
+¿Cuántos años crees que tiene?
+
+484
+00:38:14,919 --> 00:38:17,505
+Tres o cuatro, como mucho. Supongo.
+
+485
+00:38:18,923 --> 00:38:20,175
+Parece más grande.
+
+486
+00:38:22,427 --> 00:38:23,803
+Casi adulta.
+
+487
+00:38:27,390 --> 00:38:28,767
+¿Qué te sucedió?
+
+488
+00:38:28,975 --> 00:38:31,519
+¿Cuánto haloperidol le inyectaste?
+
+489
+00:38:31,603 --> 00:38:33,438
+Tengo que ponerle una vía.
+
+490
+00:38:33,521 --> 00:38:35,065
+Treinta centímetros cúbicos.
+
+491
+00:38:35,857 --> 00:38:37,317
+Pero creo que es macho.
+
+492
+00:38:37,776 --> 00:38:40,070
+No, no puede ser.
+
+493
+00:38:44,699 --> 00:38:47,243
+Sí, no hay que confundir esos claspers
+con la cloaca.
+
+494
+00:38:47,577 --> 00:38:49,496
+Qué poco profesional de mi parte.
+
+495
+00:38:49,871 --> 00:38:53,833
+Denle oxígeno y colóquenle
+una vía con sedación,
+
+496
+00:38:54,250 --> 00:38:55,669
+y controlen sus signos vitales, ¿sí?
+
+497
+00:38:56,252 --> 00:38:58,296
+- Sí, señor.
+- Buen trabajo.
+
+498
+00:39:01,091 --> 00:39:02,300
+Iré contigo mañana.
+
+499
+00:39:02,884 --> 00:39:05,887
+- Te ayudaré a atrapar a los otros dos.
+- No, no tienes que hacerlo, Emma.
+
+500
+00:39:06,054 --> 00:39:07,472
+No te estoy preguntando,
+te estoy diciendo.
+
+501
+00:39:07,972 --> 00:39:10,975
+Si tenemos atacantes,
+los dos necesitamos descubrir por qué.
+
+502
+00:39:25,699 --> 00:39:26,866
+¿Bahari?
+
+503
+00:39:29,285 --> 00:39:30,662
+Aguarda. ¿Nandi?
+
+504
+00:39:34,457 --> 00:39:35,458
+¡Bahari!
+
+505
+00:39:37,752 --> 00:39:39,254
+¡Nandi! ¡No te metas al agua!
+
+506
+00:39:39,337 --> 00:39:40,839
+¡No te metas al agua!
+
+507
+00:39:43,967 --> 00:39:44,801
+¿Shaw?
+
+508
+00:40:08,658 --> 00:40:10,827
+Está bien, Shaw. Lo tengo.
+
+509
+00:40:13,830 --> 00:40:14,831
+¿Nandi?
+
+510
+00:40:23,965 --> 00:40:25,175
+Dios mío.
+
+511
+00:40:59,042 --> 00:41:01,586
+Hay dos más allí,
+y tenemos que encontrarlos
+
+512
+00:41:01,670 --> 00:41:03,880
+con o sin ayuda de tu novia.
+
+513
+00:41:04,172 --> 00:41:06,633
+Tú haz tu trabajo, yo haré el mío.
+
+514
+00:41:08,301 --> 00:41:11,805
+Bueno, tú eres el que conoce a Collins.
+¿Qué crees que hará?
+
+515
+00:41:12,472 --> 00:41:14,349
+Eso no te incumbe.
+
+516
+00:41:18,186 --> 00:41:19,479
+Aún.
+
+517
+00:41:25,026 --> 00:41:26,027
+Spin,
+
+518
+00:41:27,278 --> 00:41:29,239
+¿encontraste algo antes?
+
+519
+00:41:30,782 --> 00:41:35,578
+¿Recuerdas esa baliza de GPS en Bella,
+la tiburón que rastrearon?
+
+520
+00:41:35,662 --> 00:41:36,830
+Mira.
+
+521
+00:41:38,957 --> 00:41:42,752
+Busqué la última frecuencia
+de rastreo de GPS
+
+522
+00:41:42,836 --> 00:41:44,337
+enviada al  <i>Thasos,</i>
+
+523
+00:41:45,338 --> 00:41:47,966
+luego ingresé a su red satelital
+
+524
+00:41:48,049 --> 00:41:51,594
+que, solo para que sepan,
+no es completamente legal, pero...
+
+525
+00:41:51,678 --> 00:41:53,221
+Cuéntame lo que estoy viendo.
+
+526
+00:41:53,304 --> 00:41:55,807
+Pude trazar el curso de la señal.
+
+527
+00:41:55,890 --> 00:41:58,226
+Lo que sea que Richard y su equipo
+estaban buscando,
+
+528
+00:41:59,185 --> 00:42:01,855
+- nunca estuvo en ningún río.
+- ¿Estás seguro?
+
+529
+00:42:03,064 --> 00:42:07,986
+La baliza de rastreo de GPS de ese tiburón
+se activó por primera vez justo aquí.
+
+530
+00:42:08,194 --> 00:42:10,822
+Centro de investigación Akheilos,
+
+531
+00:42:10,905 --> 00:42:15,660
+dirigido por un farmacéutico
+multimillonario llamado Carl Durant.
+
+532
+00:42:15,744 --> 00:42:16,953
+Aguarda, lo recuerdo.
+
+533
+00:42:17,037 --> 00:42:19,330
+Estuvo en las noticias.
+Ese lugar se hundió o algo así.
+
+534
+00:42:19,414 --> 00:42:21,458
+Sí. Y arrastró a Durant.
+
+535
+00:42:23,293 --> 00:42:25,086
+Es decir, es raro, ¿no?
+
+536
+00:42:25,170 --> 00:42:27,464
+Quiero saber qué estuvieron haciendo
+estos idiotas con los tiburones.
+
+537
+00:42:28,131 --> 00:42:29,549
+O a ellos.
+
+538
+00:42:31,676 --> 00:42:34,012
+- Lamento lo de...
+- ¡Me mentiste!
+
+539
+00:42:34,512 --> 00:42:36,431
+No rastreaste a esos tiburones
+desde el río Orange.
+
+540
+00:42:37,432 --> 00:42:40,310
+Se escaparon
+de un centro de investigación.
+
+541
+00:42:41,269 --> 00:42:42,312
+¿Cómo lo sabes?
+
+542
+00:42:42,395 --> 00:42:44,981
+Esos tiburones fueron
+alterados, manipulados.
+
+543
+00:42:45,065 --> 00:42:46,983
+No son tiburones, Richard. Son otra cosa.
+
+544
+00:42:47,067 --> 00:42:48,193
+Emma.
+
+545
+00:42:48,276 --> 00:42:49,819
+¿Qué les hicieron en Akheilos?
+
+546
+00:42:52,405 --> 00:42:54,657
+¡Lucas! ¿Escuchaste eso?
+
+547
+00:42:55,700 --> 00:42:57,285
+¿Qué demonios sucede?
+
+548
+00:42:57,369 --> 00:42:59,662
+Esos golpes son demasiado fuertes.
+
+549
+00:42:59,746 --> 00:43:02,457
+Le harán un agujero
+a la ventana de observación.
+
+550
+00:43:02,540 --> 00:43:03,541
+¡El laboratorio!
+
+551
+00:43:07,504 --> 00:43:09,422
+Esa ventana no durará mucho.
+
+552
+00:43:09,506 --> 00:43:11,883
+Nuestros tiburones están allí.
+¿Qué esperan? ¡Sédenlos!
+
+553
+00:43:11,966 --> 00:43:13,802
+¿Dejaremos que derriben
+este barco, Richard?
+
+554
+00:43:16,554 --> 00:43:18,515
+No. Carga las puntas.
+
+555
+00:43:18,682 --> 00:43:21,810
+- No es tu decisión.
+- Si tienes posición de tiro, dispara.
+
+556
+00:43:22,185 --> 00:43:23,728
+¡Sé cómo detenerlos!
+
+557
+00:43:23,812 --> 00:43:25,897
+- ¿Richard?
+- Vamos.
+
+558
+00:43:29,651 --> 00:43:32,445
+Están muy profundo. No puedo dispararles.
+
+559
+00:43:34,406 --> 00:43:35,532
+¿Qué...?
+
+560
+00:43:36,700 --> 00:43:38,493
+Entren. Están en la línea de fuego.
+
+561
+00:43:38,743 --> 00:43:39,994
+Vamos.
+
+562
+00:43:40,328 --> 00:43:42,497
+¡Oigan! ¡Idiotas!
+
+563
+00:43:42,997 --> 00:43:44,916
+Si uno de esos tiros llega aquí,
+
+564
+00:43:45,250 --> 00:43:47,168
+destruirán todo el pueblo.
+
+565
+00:43:49,629 --> 00:43:50,672
+Demonios.
+
+566
+00:44:01,307 --> 00:44:02,475
+Richard.
+
+567
+00:44:02,934 --> 00:44:04,519
+Están aquí por él.
+
+568
+00:44:05,103 --> 00:44:06,479
+Entonces, entrégales lo que quieren.
+
+569
+00:44:08,023 --> 00:44:09,232
+Yo me encargo.
+
+570
+00:44:17,782 --> 00:44:19,826
+¿Qué esperas? Suelta al tiburón.
+
+571
+00:44:19,951 --> 00:44:22,287
+¿Y perder para siempre
+al único espécimen vivo que tenemos?
+
+572
+00:44:23,913 --> 00:44:26,332
+De ninguna manera. Dámelo.
+
+573
+00:44:29,336 --> 00:44:32,797
+Retrocedan, carajo.
+
+574
+00:44:49,397 --> 00:44:52,233
+¿Qué acaba de suceder?
+
+575
+00:44:57,364 --> 00:44:58,490
+Tus tiburones...
+
+576
+00:45:01,743 --> 00:45:02,744
+Entendieron.
+
+577
+00:45:09,000 --> 00:45:12,045
+- Te mereces una explicación.
+- ¡No!
+
+578
+00:45:12,128 --> 00:45:15,215
+No otra de tus explicaciones, Richard.
+La verdad.
+
+579
+00:45:17,467 --> 00:45:19,803
+Esos dos tiburones intentaban salvar
+a su hermano.
+
+580
+00:45:21,221 --> 00:45:23,973
+No comenzó en Akheilos,
+ese fue el segundo trabajo genético.
+
+581
+00:45:24,641 --> 00:45:26,935
+Comenzó con una investigación en makos,
+
+582
+00:45:27,018 --> 00:45:29,521
+intentando conseguir proteínas
+para tratar el Alzheimer.
+
+583
+00:45:30,230 --> 00:45:32,816
+Pero no pudieron conseguir
+lo suficiente para una prueba.
+
+584
+00:45:32,899 --> 00:45:34,901
+Los cerebros de los makos
+eran muy pequeños, ¿entonces?
+
+585
+00:45:35,610 --> 00:45:36,611
+Eran.
+
+586
+00:45:38,113 --> 00:45:40,949
+¿Los manipularon genéticamente
+para que tengan cerebros más grandes?
+
+587
+00:45:41,032 --> 00:45:42,826
+Y allí entra Carl Durant.
+
+588
+00:45:43,243 --> 00:45:46,037
+Adquirió esa investigación
+con un objetivo diferente.
+
+589
+00:45:46,538 --> 00:45:49,165
+Si puede aumentar
+la inteligencia de los toros,
+
+590
+00:45:49,958 --> 00:45:52,877
+puede manipular el mismo tratamiento
+para los humanos.
+
+591
+00:45:54,629 --> 00:45:57,757
+- Un salto evolutivo.
+- Parece que crees en eso.
+
+592
+00:45:57,841 --> 00:46:00,552
+Hicieron explotar Akheilos
+para evitar que los tiburones escaparan.
+
+593
+00:46:00,635 --> 00:46:02,637
+Bella y sus crías salieron vivos.
+
+594
+00:46:03,179 --> 00:46:05,682
+Estuvieron tratando de capturarlos
+y matarlos desde ese entonces.
+
+595
+00:46:05,765 --> 00:46:09,310
+Señuelos explosivos, veneno,
+pero nunca de la misma manera.
+
+596
+00:46:09,477 --> 00:46:11,855
+Sí. Claro, porque aprenden.
+
+597
+00:46:12,522 --> 00:46:14,441
+Esas eran las últimas crías de Bella.
+
+598
+00:46:15,233 --> 00:46:16,609
+Las últimas tres.
+
+599
+00:46:17,777 --> 00:46:19,738
+El laboratorio Genotics compró
+las patentes
+
+600
+00:46:19,821 --> 00:46:22,449
+para tratar Alzheimer
+y aumentar la inteligencia.
+
+601
+00:46:22,532 --> 00:46:25,493
+- Entonces, cortarás a Scarface...
+- ¡Dios mío!
+
+602
+00:46:25,577 --> 00:46:27,829
+- ...te meterás en su cerebro...
+- Ahórrate la opinión, Emma.
+
+603
+00:46:28,538 --> 00:46:30,165
+Podemos ayudar a personas.
+
+604
+00:46:30,790 --> 00:46:31,916
+No solo hablar de eso.
+
+605
+00:46:35,086 --> 00:46:35,920
+Mira.
+
+606
+00:46:40,133 --> 00:46:43,386
+Cuando activo el rastreador de Bella,
+
+607
+00:46:43,762 --> 00:46:48,516
+el sistema de recepción neuro-electro
+extremadamente sensible de tiburones,
+
+608
+00:46:48,725 --> 00:46:50,685
+su sexto sentido, entra en funcionamiento.
+
+609
+00:46:55,523 --> 00:46:56,900
+La extraña.
+
+610
+00:46:57,984 --> 00:46:59,527
+Cuando estos tiburones nacieron,
+
+611
+00:47:00,153 --> 00:47:03,073
+sus cerebros fueron marcados con
+la frecuencia del rastreador de su madre.
+
+612
+00:47:03,156 --> 00:47:05,283
+Es decir, es una
+de esas casualidades buenas.
+
+613
+00:47:05,367 --> 00:47:06,409
+No lo hagas.
+
+614
+00:47:06,493 --> 00:47:09,412
+Logra una conexión emocional poderosa.
+
+615
+00:47:09,496 --> 00:47:12,374
+Lo usé para atraer
+a los toros hacia mí ayer
+
+616
+00:47:12,457 --> 00:47:14,125
+y aunque sabían
+que su madre estaba muerta,
+
+617
+00:47:14,209 --> 00:47:15,752
+no pudieron evitarlo.
+
+618
+00:47:15,835 --> 00:47:18,546
+Claro. Por eso tienes la baliza de Bella.
+
+619
+00:47:18,630 --> 00:47:21,549
+No me puedo acercar
+lo suficiente para capturarlos.
+
+620
+00:47:22,092 --> 00:47:23,635
+Son demasiado inteligentes,
+
+621
+00:47:24,803 --> 00:47:27,305
+pero esta frecuencia los atrae igual.
+
+622
+00:47:28,056 --> 00:47:29,516
+Emma,
+
+623
+00:47:30,016 --> 00:47:32,477
+si podemos estudiar
+el cerebro del tiburón,
+
+624
+00:47:32,560 --> 00:47:35,146
+si podemos desarrollar
+algún tipo de conexión con personas,
+
+625
+00:47:35,230 --> 00:47:36,690
+imagínate cómo podremos cambiar al mundo.
+
+626
+00:47:36,773 --> 00:47:39,984
+Hacer que la humanidad sienta,
+Emma, y, a partir de eso,
+
+627
+00:47:40,068 --> 00:47:41,820
+- actuar.
+- Detente.
+
+628
+00:47:42,153 --> 00:47:43,405
+Apágalo.
+
+629
+00:47:44,864 --> 00:47:46,199
+Para.
+
+630
+00:47:50,412 --> 00:47:53,331
+- Es una tortura.
+- No, Emma.
+
+631
+00:47:53,998 --> 00:47:55,500
+Es progreso.
+
+632
+00:47:55,583 --> 00:47:57,085
+Apágalo.
+
+633
+00:47:57,168 --> 00:47:58,795
+Te juro por Dios,
+que será mejor que lo apagues.
+
+634
+00:47:58,878 --> 00:48:00,463
+¡Apágalo, Richard!
+
+635
+00:48:01,423 --> 00:48:02,590
+Está apagado.
+
+636
+00:48:13,351 --> 00:48:14,394
+Lo siento.
+
+637
+00:48:14,811 --> 00:48:17,439
+Mentí porque sabía
+que nunca lo aprobarías.
+
+638
+00:48:17,522 --> 00:48:19,107
+Tuviste razón en algo.
+
+639
+00:48:19,190 --> 00:48:23,153
+Es el animal más valioso del planeta,
+y el reloj está corriendo.
+
+640
+00:48:23,236 --> 00:48:26,156
+Estos jóvenes están madurando más rápido
+de lo que jamás vimos.
+
+641
+00:48:26,239 --> 00:48:29,784
+Si no atrapamos a los otros dos
+aquí y ahora, si se reproducen...
+
+642
+00:48:29,868 --> 00:48:31,995
+Viste lo que pueden hacer,
+cómo pueden matar.
+
+643
+00:48:33,496 --> 00:48:35,206
+Es el fin del océano.
+
+644
+00:48:37,083 --> 00:48:39,544
+Todo lo que nos importa.
+
+645
+00:48:39,753 --> 00:48:41,171
+¿No lo ves?
+
+646
+00:48:44,382 --> 00:48:45,216
+¿Sí?
+
+647
+00:48:48,678 --> 00:48:50,221
+Sí, lo veo.
+
+648
+00:48:50,305 --> 00:48:52,682
+Veo que sabías exactamente
+con lo que estábamos lidiando,
+
+649
+00:48:52,766 --> 00:48:54,601
+y alguien a quien quería murió.
+
+650
+00:48:59,939 --> 00:49:01,775
+No sé qué fue eso...
+
+651
+00:49:01,858 --> 00:49:03,318
+Pero me encantó.
+
+652
+00:49:15,830 --> 00:49:18,249
+No deberías haberle dicho nada a tu chica.
+
+653
+00:49:18,333 --> 00:49:20,418
+Esos malditos tiburones
+son más inteligentes que tú.
+
+654
+00:49:20,502 --> 00:49:22,671
+Arreglaron la ventana, te puedes ir.
+
+655
+00:49:22,754 --> 00:49:26,174
+¿Sí? Estás aquí tratando
+de salvar el mundo,
+
+656
+00:49:26,257 --> 00:49:28,718
+pero no te importa
+arriesgar la vida de los demás.
+
+657
+00:49:28,802 --> 00:49:30,053
+¡Te dije que te largaras, Lucas!
+
+658
+00:49:30,929 --> 00:49:33,932
+¿Por qué nos ocultaste
+este señuelo del tiburón, Richard?
+
+659
+00:49:36,017 --> 00:49:37,435
+Devuélvemelo.
+
+660
+00:49:39,396 --> 00:49:41,648
+Quizá no querías
+que el laboratorio Genotics lo supiera.
+
+661
+00:49:42,440 --> 00:49:44,275
+¿Te preocupa la ética,
+
+662
+00:49:44,734 --> 00:49:46,069
+o tu futuro económico
+
+663
+00:49:46,152 --> 00:49:49,280
+cuando renuncies a Genotics
+y comiences tu propia compañía?
+
+664
+00:49:49,364 --> 00:49:50,782
+- Eso es absurdo.
+- ¿Lo es?
+
+665
+00:49:52,033 --> 00:49:53,993
+Si no nos lo hubieras ocultado,
+
+666
+00:49:54,077 --> 00:49:57,163
+quizá hubiéramos terminado
+nuestro trabajo mucho más rápido.
+
+667
+00:49:57,872 --> 00:49:59,207
+¿Qué harás?
+
+668
+00:49:59,541 --> 00:50:01,501
+Eres muy inteligente, ¿qué crees?
+
+669
+00:50:03,169 --> 00:50:05,088
+¡Vamos, no te hagas el sorprendido!
+
+670
+00:50:06,965 --> 00:50:08,967
+No somos los que mejoramos un tiburón.
+
+671
+00:50:09,843 --> 00:50:13,054
+Pero somos los pobres idiotas
+que enviaron a arreglar el desastre.
+
+672
+00:50:14,806 --> 00:50:17,851
+¿Dos tiburones toros atacaron
+un barco de 30 metros
+
+673
+00:50:17,934 --> 00:50:21,229
+y luego se retiraron
+porque reconocieron un arma?
+
+674
+00:50:22,397 --> 00:50:25,316
+Eso no puede ser. Esas cosas no suceden.
+
+675
+00:50:25,734 --> 00:50:27,610
+- Tú también lo viste.
+- Claro que sí.
+
+676
+00:50:28,111 --> 00:50:31,281
+- Bien, ¿qué haremos ahora?
+- Denunciarlo.
+
+677
+00:50:31,948 --> 00:50:33,908
+- ¿Spin?
+- Sí, será complicado.
+
+678
+00:50:33,992 --> 00:50:35,994
+- ¿Por qué?
+- Otra vez se cortó el Internet.
+
+679
+00:50:36,077 --> 00:50:38,997
+Básicamente, todo por lo que vivo.
+
+680
+00:50:40,415 --> 00:50:41,624
+Casi todo.
+
+681
+00:50:41,833 --> 00:50:44,627
+- ¿Podría ser el satélite?
+- Sí, podría ser.
+
+682
+00:50:46,963 --> 00:50:48,631
+Quédate al mando.
+
+683
+00:50:58,350 --> 00:51:00,101
+Muy bien, chicos.
+
+684
+00:51:02,312 --> 00:51:04,064
+Es hora de acabar con esto.
+
+685
+00:51:04,147 --> 00:51:05,231
+Copiado.
+
+686
+00:51:06,858 --> 00:51:08,526
+Se volverán a meter.
+
+687
+00:51:09,277 --> 00:51:11,363
+Tienen algo en una caja de metal
+bastante sofisticada.
+
+688
+00:51:11,446 --> 00:51:14,199
+Sofisticada al estilo James Brown, o...
+
+689
+00:51:15,492 --> 00:51:16,785
+¿Qué te parece?
+
+690
+00:51:19,913 --> 00:51:22,499
+- ¿Ya está listo y arreglado nuestro dron?
+- Sí.
+
+691
+00:51:23,583 --> 00:51:25,168
+Veamos qué traman.
+
+692
+00:52:17,303 --> 00:52:19,055
+Cerca, pero no demasiado.
+
+693
+00:52:19,139 --> 00:52:21,433
+Me encanta el alcance de esta hermosura.
+
+694
+00:52:49,711 --> 00:52:51,046
+¿Qué diablos están haciendo?
+
+695
+00:52:51,588 --> 00:52:53,423
+Chicos, vengan.
+
+696
+00:52:54,215 --> 00:52:56,593
+Tengo el video del dron en Tritón.
+
+697
+00:53:01,431 --> 00:53:03,183
+Veamos lo que hay en esa caja.
+
+698
+00:53:05,977 --> 00:53:06,978
+Acércate.
+
+699
+00:53:12,025 --> 00:53:13,026
+Diablos.
+
+700
+00:53:14,027 --> 00:53:15,445
+¿Qué quieres decir con "diablos"?
+
+701
+00:53:16,988 --> 00:53:18,615
+¿Qué quiere decir con "diablos"?
+
+702
+00:53:23,787 --> 00:53:25,038
+Tengo que encontrar a Emma.
+
+703
+00:53:25,622 --> 00:53:26,623
+Ahora.
+
+704
+00:53:40,387 --> 00:53:41,513
+Diablos.
+
+705
+00:53:43,264 --> 00:53:44,808
+Mala idea, doctora Collins.
+
+706
+00:53:45,100 --> 00:53:46,559
+Emma, ¿dónde estás?
+
+707
+00:54:09,666 --> 00:54:11,126
+Carajo.
+
+708
+00:54:25,473 --> 00:54:26,599
+Este es el problema.
+
+709
+00:54:26,975 --> 00:54:29,394
+Cortaron la línea satelital,
+
+710
+00:54:30,478 --> 00:54:32,605
+tienen un tiburón que descuartizarán
+
+711
+00:54:32,689 --> 00:54:34,899
+y quieren matar a los otros dos. Rápido.
+
+712
+00:54:35,358 --> 00:54:37,527
+Si esos dos toros jóvenes
+comienzan a tener bebés...
+
+713
+00:54:37,610 --> 00:54:40,196
+Nos enfrentamos al fin del mar.
+
+714
+00:54:41,948 --> 00:54:43,199
+¿Fin del mar?
+
+715
+00:54:43,616 --> 00:54:46,036
+- Hay un pez más gordo para atrapar, Emma.
+- ¿Qué?
+
+716
+00:54:47,078 --> 00:54:49,706
+- No, esto es lo más grande que existe.
+- Escúchame.
+
+717
+00:54:49,789 --> 00:54:52,584
+Pusieron una mina
+en la pared del criadero.
+
+718
+00:54:55,545 --> 00:54:56,796
+Para hundir barcos.
+
+719
+00:54:57,130 --> 00:54:59,466
+Su papá y yo solíamos usarla en el Golfo.
+
+720
+00:54:59,883 --> 00:55:01,968
+Se adhieren magnéticamente al casco.
+
+721
+00:55:02,052 --> 00:55:03,970
+Tiene un alcance terrible. Créeme.
+
+722
+00:55:04,262 --> 00:55:06,056
+¿Cómo usan la mina?
+
+723
+00:55:06,139 --> 00:55:09,934
+¿Esperan tener suerte
+y que esos dos toros naden por ahí?
+
+724
+00:55:10,769 --> 00:55:11,770
+Geografía.
+
+725
+00:55:12,854 --> 00:55:15,315
+El criadero es una trinchera,
+un cañón cerrado por dos paredes.
+
+726
+00:55:15,607 --> 00:55:18,068
+La onda de expansión de la mina
+rebotará entre las paredes,
+
+727
+00:55:18,151 --> 00:55:20,236
+de un lado a otro,
+y será como una maldita licuadora.
+
+728
+00:55:20,487 --> 00:55:23,656
+La energía cinética en el cañón
+destruirá todo.
+
+729
+00:55:23,740 --> 00:55:28,161
+Luego, la onda expansiva creará un embudo
+y una ola gigante, un minitsunami.
+
+730
+00:55:28,244 --> 00:55:30,789
+Golpeará a Little Happy
+con toda su fuerza, sin rodeos.
+
+731
+00:55:30,872 --> 00:55:34,167
+- Se llevará el pueblo entero.
+- Y a nosotros.
+
+732
+00:55:34,250 --> 00:55:37,462
+El único lugar seguro en muchos kilómetros
+será su maldito barco.
+
+733
+00:55:39,214 --> 00:55:41,007
+Tengo que hablar con Richard.
+
+734
+00:55:41,424 --> 00:55:43,093
+No cambiará nada. ¡Emma!
+
+735
+00:55:43,635 --> 00:55:47,055
+Shaw, quédate aquí. Lo digo en serio.
+
+736
+00:55:54,854 --> 00:55:58,024
+¿Nos ibas a advertir?
+¿O ibas a dejar que nos ahogáramos?
+
+737
+00:55:58,650 --> 00:56:01,444
+- ¿De qué hablas?
+- Hablo de la mina.
+
+738
+00:56:03,238 --> 00:56:04,322
+Emma...
+
+739
+00:56:05,615 --> 00:56:06,908
+¿Qué mina?
+
+740
+00:56:07,534 --> 00:56:09,452
+La que pusiste en el criadero.
+
+741
+00:56:10,161 --> 00:56:12,706
+¿De verdad crees que tengo que creer
+
+742
+00:56:12,789 --> 00:56:14,833
+que no sabías nada de eso, Richard?
+
+743
+00:56:15,000 --> 00:56:16,710
+¿O sobre cortar la línea
+de comunicación del satélite?
+
+744
+00:56:16,793 --> 00:56:19,129
+Lo juro, no sé de lo que hablas.
+
+745
+00:56:21,881 --> 00:56:23,008
+Lucas.
+
+746
+00:56:25,260 --> 00:56:26,386
+Oye.
+
+747
+00:56:29,222 --> 00:56:30,515
+¿Qué hiciste?
+
+748
+00:56:31,307 --> 00:56:32,642
+Seguí órdenes.
+
+749
+00:56:33,560 --> 00:56:37,981
+Encontrar a Bella, capturar o matar
+a sus crías antes de que se apareen.
+
+750
+00:56:38,273 --> 00:56:40,692
+Lo que podría suceder
+en cualquier momento.
+
+751
+00:56:41,192 --> 00:56:43,194
+Quizá hasta tengan manos
+para ese entonces.
+
+752
+00:56:43,862 --> 00:56:45,488
+Así que elijo matarlos.
+
+753
+00:56:45,572 --> 00:56:48,241
+Lucas, nuestras órdenes
+no incluían volar nada,
+
+754
+00:56:48,324 --> 00:56:49,576
+o matar a nadie.
+
+755
+00:56:49,659 --> 00:56:52,787
+¿De verdad crees que nos enviaron aquí
+
+756
+00:56:52,871 --> 00:56:54,706
+para desarrollar una droga
+para niños atrasados?
+
+757
+00:56:54,789 --> 00:56:59,627
+¿Para que tengan las mejores notas,
+toquen el oboe y entren a Harvard?
+
+758
+00:57:00,462 --> 00:57:04,799
+¡El laboratorio Genotics no nos envió
+para mejorar la humanidad, idiota!
+
+759
+00:57:06,051 --> 00:57:09,137
+Solo se están salvando sus traseros,
+protegiendo sus patentes,
+
+760
+00:57:09,220 --> 00:57:10,722
+el precio de sus acciones.
+
+761
+00:57:10,805 --> 00:57:14,184
+Porque la gente que controla todo ahora
+
+762
+00:57:14,684 --> 00:57:16,644
+pagarían lo que sea
+
+763
+00:57:16,728 --> 00:57:20,440
+para que sus hijos puedan controlar todo
+cuando todo se vaya a la mierda.
+
+764
+00:57:21,232 --> 00:57:25,987
+Toma, hijo. Aquí tienes miles de millones
+y 40 puntos de coeficiente intelectual.
+
+765
+00:57:27,238 --> 00:57:29,574
+Se trata de sobrevivir, amigos.
+
+766
+00:57:32,410 --> 00:57:35,538
+- Entren.
+- Y el dinero es la supervivencia.
+
+767
+00:57:35,622 --> 00:57:37,374
+¡Entren! ¡Ahora! ¡Cúbranse!
+
+768
+00:57:37,457 --> 00:57:39,834
+- No todos son tiburones.
+- ¡Shaw! ¡Por favor, no!
+
+769
+00:57:39,918 --> 00:57:41,670
+- ¡Diablos!
+- ¡Ve!
+
+770
+00:57:41,795 --> 00:57:43,088
+Por aquí, no.
+
+771
+00:57:53,348 --> 00:57:54,557
+- Shaw, ¡cuidado!
+- ¡Shaw!
+
+772
+00:58:03,024 --> 00:58:03,858
+¡Shaw!
+
+773
+00:58:04,693 --> 00:58:06,111
+- ¡No!
+- ¡No!
+
+774
+00:58:32,637 --> 00:58:33,763
+- ¡Lucas!
+- ¡Detente!
+
+775
+00:58:33,847 --> 00:58:35,223
+¿Qué diablos estás haciendo?
+
+776
+00:58:36,224 --> 00:58:38,935
+Lo que me pagaron para hacer.
+Limpiar este desastre.
+
+777
+00:58:55,785 --> 00:58:57,120
+¡Tenemos que irnos!
+
+778
+00:59:00,665 --> 00:59:01,791
+¡No!
+
+779
+00:59:05,962 --> 00:59:06,838
+¡Emma!
+
+780
+00:59:08,131 --> 00:59:10,050
+¡Detente! ¡No!
+
+781
+00:59:35,408 --> 00:59:36,701
+Emma, ¡corre!
+
+782
+00:59:37,410 --> 00:59:38,745
+¡Ocúpate de eso!
+
+783
+00:59:48,421 --> 00:59:51,508
+¿Dónde están los malditos Einsteins
+cuando los necesitas?
+
+784
+00:59:55,637 --> 00:59:58,098
+- Tenemos que salir.
+- ¡No! Por favor.
+
+785
+00:59:58,181 --> 01:00:01,559
+¡Spin! Hay tiburones afuera.
+
+786
+01:00:08,525 --> 01:00:10,485
+¡Miya! ¡Spin!
+
+787
+01:00:10,568 --> 01:00:12,862
+- ¡Shaw!
+- ¡Shaw!
+
+788
+01:00:12,946 --> 01:00:13,780
+¡Tiburón!
+
+789
+01:00:14,489 --> 01:00:16,282
+¡Quédense adentro, los sacaremos!
+
+790
+01:00:33,842 --> 01:00:34,843
+Emma.
+
+791
+01:00:39,431 --> 01:00:42,559
+- ¿Estás bien? Bien.
+- Sí.
+
+792
+01:00:43,143 --> 01:00:45,311
+- ¿Miya? ¿Spin?
+- Adentro.
+
+793
+01:00:46,312 --> 01:00:47,772
+Dios mío.
+
+794
+01:00:48,398 --> 01:00:50,400
+- Dios mío, tenemos que sacarlos.
+- No abuses de tu suerte.
+
+795
+01:00:50,483 --> 01:00:52,360
+Los tiburones están justo ahí abajo.
+
+796
+01:00:52,444 --> 01:00:54,404
+Si no desactivamos esa mina,
+ninguno de nosotros sobrevivirá.
+
+797
+01:00:54,487 --> 01:00:57,198
+Apenas pongan ese barco
+a una distancia segura, la detonarán.
+
+798
+01:00:58,366 --> 01:01:01,327
+Mira, tú encárgate de Miya y Spin.
+Yo me encargo de la mina.
+
+799
+01:01:01,953 --> 01:01:04,622
+- No, tú nadas como una morsa. Yo me meto.
+- Está bien, como digas.
+
+800
+01:01:04,706 --> 01:01:06,207
+Cuando la encuentre, ¿qué hago?
+
+801
+01:01:06,291 --> 01:01:08,960
+Regresa tu trasero aquí, rápido.
+Veré la manera de desactivarla.
+
+802
+01:01:09,044 --> 01:01:10,337
+- Ve.
+- Está bien.
+
+803
+01:01:21,598 --> 01:01:23,767
+Cuidado, Shaw. Ten cuidado.
+
+804
+01:01:34,319 --> 01:01:35,820
+¡Shaw!
+
+805
+01:01:35,904 --> 01:01:37,280
+¡Miya!
+
+806
+01:01:37,364 --> 01:01:38,490
+¡Shaw!
+
+807
+01:01:39,199 --> 01:01:41,659
+- ¡Shaw!
+- ¡Shaw!
+
+808
+01:01:42,911 --> 01:01:44,954
+- ¡Shaw!
+- ¡Shaw!
+
+809
+01:02:10,689 --> 01:02:11,981
+Sabes lo que tienes que hacer.
+
+810
+01:02:14,109 --> 01:02:15,110
+Hecho.
+
+811
+01:02:18,988 --> 01:02:21,491
+Lucas, sea lo que sea
+que creas que haces, detente, ¡por favor!
+
+812
+01:02:24,494 --> 01:02:26,746
+Tienes que tomar una decisión, jefe.
+
+813
+01:02:27,455 --> 01:02:29,582
+Te puedes quedar en este barco
+y recoger tu cheque,
+
+814
+01:02:30,333 --> 01:02:32,544
+o puedes ir con tu amor de posgrado.
+
+815
+01:02:33,712 --> 01:02:35,630
+Debería ser obvio, Richard.
+
+816
+01:02:36,715 --> 01:02:39,009
+Estos tiburones son más humanos
+que tú en este momento.
+
+817
+01:02:39,718 --> 01:02:41,970
+Al menos les importa lo suficiente
+como para recuperar a su hermano.
+
+818
+01:02:42,053 --> 01:02:43,596
+¿Qué te importa, Lucas?
+
+819
+01:02:43,888 --> 01:02:46,182
+Salir y recibir el pago.
+
+820
+01:02:54,899 --> 01:02:55,900
+Tienes razón.
+
+821
+01:02:57,152 --> 01:02:58,486
+Es obvio.
+
+822
+01:03:07,037 --> 01:03:10,290
+Preferiría morir con ella
+que vivir a tu manera.
+
+823
+01:03:24,220 --> 01:03:25,847
+Amante de tiburones, ¿no?
+
+824
+01:03:28,683 --> 01:03:30,685
+Mírame. Sumérgete.
+
+825
+01:03:31,353 --> 01:03:32,604
+Solo sumérgete.
+
+826
+01:03:41,488 --> 01:03:42,489
+Tómala.
+
+827
+01:03:45,825 --> 01:03:48,078
+Respira. Tú puedes hacerlo.
+
+828
+01:03:55,126 --> 01:03:56,127
+Sí.
+
+829
+01:04:00,465 --> 01:04:02,217
+Un pequeño tour antes de irnos.
+
+830
+01:04:07,972 --> 01:04:09,766
+Iremos por la parte de atrás.
+
+831
+01:04:18,525 --> 01:04:20,485
+Quédate aquí y...
+
+832
+01:04:20,568 --> 01:04:22,737
+Espera, ¿quedarme aquí? Tú quédate aquí.
+
+833
+01:04:22,821 --> 01:04:24,948
+No. Tenemos que ver
+si uno de esos está allí.
+
+834
+01:04:26,282 --> 01:04:27,409
+- Está bien.
+- Spin...
+
+835
+01:04:27,492 --> 01:04:29,202
+Ya regreso. ¿Sí?
+
+836
+01:04:29,327 --> 01:04:32,122
+Spin, prométemelo.
+
+837
+01:04:32,497 --> 01:04:33,540
+Lo prometo.
+
+838
+01:04:34,290 --> 01:04:37,877
+- ¿De verdad?
+- De verdad.
+
+839
+01:05:06,948 --> 01:05:08,033
+¡Diablos!
+
+840
+01:05:09,951 --> 01:05:11,536
+Hola, vecino.
+
+841
+01:05:12,996 --> 01:05:14,330
+Demonios.
+
+842
+01:05:21,796 --> 01:05:23,298
+Vamos, hombre.
+
+843
+01:05:27,302 --> 01:05:29,012
+No tienes que hacer esto.
+
+844
+01:05:37,771 --> 01:05:39,189
+Vamos, viejo.
+
+845
+01:05:40,315 --> 01:05:41,649
+Veamos qué tienes.
+
+846
+01:05:42,984 --> 01:05:46,029
+¿Qué dijiste? Dejé mi audífono adentro.
+
+847
+01:05:46,363 --> 01:05:48,448
+¿Por qué no te acercas
+un poco más, hijito?
+
+848
+01:05:48,615 --> 01:05:50,658
+- ¿"Hijito"?
+- Sí, así es.
+
+849
+01:05:55,288 --> 01:05:56,873
+Vamos, perra.
+
+850
+01:06:22,399 --> 01:06:23,858
+Lo prometiste.
+
+851
+01:06:38,415 --> 01:06:40,208
+Uno de ellos está allí.
+
+852
+01:06:40,291 --> 01:06:41,918
+Bien. Tenemos que escondernos.
+
+853
+01:06:42,002 --> 01:06:44,129
+- ¿Escondernos? ¿Dónde?
+- Ahora.
+
+854
+01:06:50,385 --> 01:06:51,845
+¡Mierda! ¡Carajo!
+
+855
+01:06:51,928 --> 01:06:53,722
+Ve.
+
+856
+01:06:55,598 --> 01:06:56,891
+¡Ve!
+
+857
+01:07:31,509 --> 01:07:33,762
+Esperaba más de ti, viejo.
+
+858
+01:07:34,304 --> 01:07:36,056
+Eso fue muy fácil.
+
+859
+01:07:36,556 --> 01:07:39,351
+Vamos. Levántate.
+
+860
+01:07:40,977 --> 01:07:41,811
+¡Levántate!
+
+861
+01:07:56,117 --> 01:07:57,911
+Miya, tengo que decirte algo,
+
+862
+01:07:58,578 --> 01:08:00,288
+porque si no lo...
+
+863
+01:08:02,499 --> 01:08:06,252
+Toda mi vida tuve miedo de todo.
+
+864
+01:08:07,003 --> 01:08:09,673
+Y luego te conocí,
+
+865
+01:08:10,674 --> 01:08:12,926
+y me hiciste tener menos miedo.
+
+866
+01:08:13,385 --> 01:08:15,303
+Y me encanta.
+
+867
+01:08:15,387 --> 01:08:19,557
+Me encanta que te rías de mis chistes
+aunque no sean graciosos.
+
+868
+01:08:20,183 --> 01:08:23,561
+Y me encanta que te burles de mí
+cuando digo cosas tontas,
+
+869
+01:08:23,645 --> 01:08:25,438
+lo que sucede todo el tiempo.
+
+870
+01:08:25,522 --> 01:08:29,275
+Simplemente me encanta
+cómo me haces sentir.
+
+871
+01:08:30,610 --> 01:08:33,738
+Y cuando salgamos de esto,
+
+872
+01:08:33,947 --> 01:08:36,741
+porque saldremos de esto, te prometo...
+
+873
+01:08:37,117 --> 01:08:38,493
+Cuando lo logremos,
+
+874
+01:08:40,161 --> 01:08:42,622
+me encantaría pasar más tiempo contigo.
+
+875
+01:08:53,550 --> 01:08:55,093
+Está bien.
+
+876
+01:08:59,431 --> 01:09:01,474
+- ¿Qué es esto?
+- Diablos.
+
+877
+01:09:01,933 --> 01:09:04,352
+Hay sangre. Está por todos lados.
+
+878
+01:09:16,990 --> 01:09:18,033
+Eso estuvo cerca.
+
+879
+01:09:40,180 --> 01:09:41,973
+¡Acaba con esta mierda!
+
+880
+01:09:44,267 --> 01:09:46,436
+Luego regresa al barco.
+
+881
+01:10:12,212 --> 01:10:13,254
+¡Carajo!
+
+882
+01:10:13,630 --> 01:10:14,464
+¡Carajo!
+
+883
+01:10:14,756 --> 01:10:16,216
+¡No!
+
+884
+01:10:33,233 --> 01:10:35,443
+No un cajón, no un cajón.
+
+885
+01:10:40,323 --> 01:10:42,659
+No un cajón, no un cajón.
+
+886
+01:10:43,368 --> 01:10:45,662
+No un cajón, no un cajón.
+
+887
+01:10:53,336 --> 01:10:55,922
+No un cajón, no un cajón.
+
+888
+01:10:58,341 --> 01:11:00,468
+¡Miya! ¿Spin?
+
+889
+01:11:39,424 --> 01:11:40,675
+No.
+
+890
+01:12:00,236 --> 01:12:01,905
+¡No!
+
+891
+01:12:21,508 --> 01:12:22,467
+<i>Sally.</i>
+
+892
+01:12:48,702 --> 01:12:50,662
+Schill, ¿ya la mataste?
+
+893
+01:12:55,041 --> 01:12:56,459
+¿Schill?
+
+894
+01:12:59,087 --> 01:13:01,673
+<i>Shaw, ¿me escuchas? ¿Shaw?</i>
+
+895
+01:13:02,298 --> 01:13:03,425
+¿Emma?
+
+896
+01:13:03,717 --> 01:13:05,593
+<i>¿Dónde estás? Responde.</i>
+
+897
+01:13:08,054 --> 01:13:09,264
+Emma.
+
+898
+01:13:09,347 --> 01:13:10,890
+<i>Shaw. Dios, Shaw.</i>
+
+899
+01:13:13,893 --> 01:13:15,478
+<i>Escúchame.</i>
+
+900
+01:13:16,521 --> 01:13:17,939
+<i>Necesito tu ayuda.</i>
+
+901
+01:13:18,023 --> 01:13:20,108
+Emma, los toros están arriba de ti.
+
+902
+01:13:21,026 --> 01:13:22,694
+<i>Sí, no me digas.</i>
+
+903
+01:13:22,777 --> 01:13:25,989
+<i>Tengo la mina,
+</i> <i>y estos dos toros saben lo que es.</i>
+
+904
+01:13:26,573 --> 01:13:27,699
+¿Qué quieres decir?
+
+905
+01:13:27,782 --> 01:13:30,410
+<i>Richard dijo que antes
+</i> <i>usaron explosivos en los tiburones.</i>
+
+906
+01:13:32,203 --> 01:13:34,247
+<i>Creo que puedo regresar.</i>
+
+907
+01:13:50,388 --> 01:13:51,389
+¡Shaw!
+
+908
+01:13:52,307 --> 01:13:54,726
+El  <i>Thasos  </i>está por irse.
+
+909
+01:13:55,393 --> 01:13:59,022
+Emma, Lucas está por irse. Podría explotar
+la mina en cualquier momento,
+
+910
+01:13:59,105 --> 01:14:00,774
+tienes que desarmarla.
+
+911
+01:14:00,857 --> 01:14:02,275
+<i>Estoy en la caleta.</i>
+
+912
+01:14:02,359 --> 01:14:04,611
+<i>Con los toros en mi trasero,
+</i> <i>¿puedes quitármelos de encima?</i>
+
+913
+01:14:07,364 --> 01:14:08,365
+Aguarda.
+
+914
+01:14:20,710 --> 01:14:21,711
+Toma sus piernas.
+
+915
+01:14:42,774 --> 01:14:44,275
+Lo siento, amigo.
+
+916
+01:14:44,359 --> 01:14:46,152
+<i>Gracias, Shaw. Y perdón.</i>
+
+917
+01:14:47,612 --> 01:14:49,906
+¿Perdón? ¿Perdón por qué, Emma?
+
+918
+01:14:50,281 --> 01:14:52,575
+<i>- Por algo que debo hacer.
+</i>- ¿Qué?
+
+919
+01:14:52,659 --> 01:14:54,285
+<i>No te gustará. Adiós.</i>
+
+920
+01:14:54,703 --> 01:14:57,706
+¿"Adiós? No, nada de adiós.
+¿Qué quieres decir con "adiós"?
+
+921
+01:14:58,957 --> 01:14:59,958
+¿Emma?
+
+922
+01:15:18,685 --> 01:15:20,020
+Emma, Lucas se está yendo.
+
+923
+01:15:21,021 --> 01:15:22,022
+¿Emma?
+
+924
+01:15:39,831 --> 01:15:40,832
+¿Me extrañaste?
+
+925
+01:15:47,047 --> 01:15:48,381
+Los tiburones los atraparon.
+
+926
+01:16:00,810 --> 01:16:01,811
+Lucas.
+
+927
+01:16:03,104 --> 01:16:05,440
+Tiene el detonador en su mano.
+
+928
+01:16:08,610 --> 01:16:09,903
+¿Dónde está la mina?
+
+929
+01:16:16,701 --> 01:16:18,078
+Little Happy,
+
+930
+01:16:19,412 --> 01:16:20,914
+te presento una gran tristeza.
+
+931
+01:16:53,613 --> 01:16:54,989
+Salgamos de aquí.
+
+932
+01:16:55,115 --> 01:16:57,992
+- Todos estamos de acuerdo con eso, ¿no?
+- Nos iremos en mi barco.
+
+933
+01:16:58,076 --> 01:16:59,994
+Bien, buscaré agua fresca,
+algunas provisiones.
+
+934
+01:17:00,370 --> 01:17:01,371
+¿Emma?
+
+935
+01:17:03,373 --> 01:17:04,541
+No puedo irme.
+
+936
+01:17:05,291 --> 01:17:06,668
+¿De qué hablas?
+
+937
+01:17:08,503 --> 01:17:10,922
+No les pediré que se queden,
+pero yo no me puedo ir.
+
+938
+01:17:11,006 --> 01:17:12,007
+No hasta que todo termine.
+
+939
+01:17:12,298 --> 01:17:14,676
+Ya se terminó.
+
+940
+01:17:15,385 --> 01:17:16,928
+Estamos vivos, chicas.
+
+941
+01:17:17,012 --> 01:17:18,096
+Los toros también.
+
+942
+01:17:18,179 --> 01:17:19,889
+Richard y el idiota de Lucas tenían razón.
+
+943
+01:17:19,973 --> 01:17:21,516
+Si esas cosas se aparean,
+
+944
+01:17:22,225 --> 01:17:24,310
+- no sabemos en lo que pueden convertirse.
+- ¿Tienen razón?
+
+945
+01:17:24,394 --> 01:17:27,188
+¿De qué hablas? Te pasaste
+toda tu vida intentando salvar tiburones.
+
+946
+01:17:27,272 --> 01:17:29,065
+Lo sé, pero...
+
+947
+01:17:30,316 --> 01:17:32,986
+- Pero ¿qué?
+- Esto nos supera.
+
+948
+01:17:33,069 --> 01:17:35,071
+No es nuestra responsabilidad, señoritas.
+
+949
+01:17:35,155 --> 01:17:37,574
+Pero si no es nuestra responsabilidad,
+Shaw, ¿de quién es?
+
+950
+01:17:39,909 --> 01:17:42,996
+Somos los únicos en la Tierra
+que podemos detenerlos ahora.
+
+951
+01:17:44,080 --> 01:17:45,415
+No tendremos otra posibilidad.
+
+952
+01:17:49,961 --> 01:17:51,963
+Mi papá nunca abandonaba una pelea.
+
+953
+01:17:53,882 --> 01:17:55,884
+Peleaba más.
+
+954
+01:17:56,718 --> 01:17:58,053
+¿Y tú?
+
+955
+01:18:00,388 --> 01:18:01,931
+Tienes que estar bromeando, Emma.
+
+956
+01:18:03,933 --> 01:18:06,686
+- ¿Cómo encontraremos a esos monstruos?
+- Exacto.
+
+957
+01:18:07,354 --> 01:18:09,939
+Ya se fueron.
+Podrían estar a kilómetros de aquí.
+
+958
+01:18:10,440 --> 01:18:12,400
+No son monstruos.
+Nosotros le hicimos esto.
+
+959
+01:18:21,326 --> 01:18:24,496
+- La baliza de GPS de los tiburones.
+- No de cualquier tiburón.
+
+960
+01:18:24,579 --> 01:18:26,373
+De Bella, su madre.
+
+961
+01:18:27,582 --> 01:18:29,334
+La sienten cada día de su vida.
+
+962
+01:18:29,709 --> 01:18:33,254
+Richard me dijo que sus cerebros
+se marcaron en esta frecuencia específica.
+
+963
+01:18:33,380 --> 01:18:36,508
+La siguieron por instinto. Yo misma lo vi.
+
+964
+01:18:36,841 --> 01:18:41,513
+Para estos toros, esta baliza es su madre.
+
+965
+01:18:42,931 --> 01:18:44,099
+No lo entiendo.
+
+966
+01:18:47,894 --> 01:18:50,105
+No iré tras ellos.
+
+967
+01:18:53,108 --> 01:18:54,859
+Haré que regresen.
+
+968
+01:19:02,075 --> 01:19:04,494
+- Esto es todo lo que tenemos.
+- No todo.
+
+969
+01:19:05,912 --> 01:19:08,790
+Ataré esto al dron,
+los traeré a la caleta,
+
+970
+01:19:08,873 --> 01:19:10,917
+justo pasando tu casa, pasando por aquí,
+
+971
+01:19:11,292 --> 01:19:13,628
+y los haré ir en círculo
+hasta que los matemos.
+
+972
+01:19:18,299 --> 01:19:19,592
+Por Bahari.
+
+973
+01:19:19,926 --> 01:19:22,262
+- Por Miya y Spin.
+- Por todos nosotros.
+
+974
+01:19:36,568 --> 01:19:38,153
+Bien, estoy dando la vuelta.
+
+975
+01:19:50,415 --> 01:19:52,125
+Voy hacia la derecha.
+
+976
+01:19:55,545 --> 01:19:56,963
+Doy la vuelta.
+
+977
+01:19:58,798 --> 01:19:59,883
+¡Los veo!
+
+978
+01:20:04,721 --> 01:20:06,681
+- Los tengo.
+- Acorrálalos.
+
+979
+01:20:07,515 --> 01:20:08,725
+Tráelos más cerca.
+
+980
+01:20:09,601 --> 01:20:10,435
+Muy bien.
+
+981
+01:20:11,644 --> 01:20:14,939
+Aquí vamos. Guíalos hacia aquí.
+
+982
+01:20:27,327 --> 01:20:28,703
+¡Emma!
+
+983
+01:20:29,746 --> 01:20:32,082
+¡Diablos! Están perdiendo interés.
+
+984
+01:20:33,458 --> 01:20:35,085
+- ¿Qué sucede?
+- Demonios.
+
+985
+01:20:35,502 --> 01:20:37,420
+No... Está atrapado en algún lugar.
+
+986
+01:20:38,213 --> 01:20:40,799
+- ¿Cómo que está atrapado?
+- Tengo que ir a liberarlo.
+
+987
+01:20:40,882 --> 01:20:42,258
+- Déjame ver.
+- Mira.
+
+988
+01:20:42,342 --> 01:20:44,844
+- Nunca los atraparemos si no lo hacemos.
+- De ninguna manera. Yo me encargo.
+
+989
+01:20:44,928 --> 01:20:46,012
+¡Shaw! ¡Aguarda!
+
+990
+01:20:46,638 --> 01:20:47,639
+¡Shaw!
+
+991
+01:20:48,473 --> 01:20:49,641
+Shaw.
+
+992
+01:20:56,940 --> 01:20:58,233
+Ya casi estás.
+
+993
+01:21:24,467 --> 01:21:25,677
+¿Lo ves?
+
+994
+01:21:33,768 --> 01:21:34,978
+¿Shaw?
+
+995
+01:21:43,570 --> 01:21:44,404
+Sí.
+
+996
+01:21:44,779 --> 01:21:45,613
+¡Sí!
+
+997
+01:21:48,700 --> 01:21:49,868
+Bueno, ven.
+
+998
+01:21:50,493 --> 01:21:51,828
+Shaw, vamos.
+
+999
+01:21:55,790 --> 01:21:57,459
+¡Shaw! ¡Sal!
+
+1000
+01:21:58,251 --> 01:21:59,961
+- ¡Sal!
+- Shaw.
+
+1001
+01:22:00,045 --> 01:22:02,630
+- ¡Shaw!
+- ¡Shaw! ¡Sal del agua!
+
+1002
+01:22:03,590 --> 01:22:05,383
+¡Demonios, Shaw!
+
+1003
+01:22:05,717 --> 01:22:08,928
+¡Vamos, sal del agua! ¡Sal del agua!
+
+1004
+01:22:12,474 --> 01:22:14,267
+¡Shaw! ¡Sal!
+
+1005
+01:22:14,351 --> 01:22:15,352
+¡Shaw!
+
+1006
+01:22:22,192 --> 01:22:23,026
+¡Shaw!
+
+1007
+01:22:38,833 --> 01:22:39,834
+¡Shaw!
+
+1008
+01:22:49,260 --> 01:22:50,553
+¡Shaw!
+
+1009
+01:23:01,064 --> 01:23:02,357
+¡Shaw!
+
+1010
+01:23:19,040 --> 01:23:22,043
+¿Adónde vas, perra? ¿Adónde vas?
+
+1011
+01:23:23,420 --> 01:23:26,423
+No irás a ningún lado. ¿Adónde vas?
+
+1012
+01:23:27,007 --> 01:23:28,341
+No tienes adónde ir.
+
+1013
+01:23:39,477 --> 01:23:40,478
+¡Muy fácil!
+
+1014
+01:23:45,984 --> 01:23:46,985
+¡Ahógate!
+
+1015
+01:23:55,827 --> 01:23:56,828
+¡Oye, idiota!
+
+1016
+01:24:01,875 --> 01:24:03,126
+¿Es lo mejor que tienes?
+
+1017
+01:24:03,501 --> 01:24:05,128
+Estúpida perra.
+
+1018
+01:25:21,579 --> 01:25:24,207
+TECNOLOGÍA DE MANEJO DE RESIDUOS
+PELIGRO
+
+1019
+01:25:38,763 --> 01:25:40,098
+Emma, ¡no!
+
+1020
+01:25:41,891 --> 01:25:44,561
+¡Oye! ¡Ven aquí!
+
+1021
+01:25:47,480 --> 01:25:49,524
+- ¡Ven aquí!
+- ¡Mierda!
+
+1022
+01:25:53,445 --> 01:25:54,863
+Carajo, Emma.
+
+1023
+01:26:49,250 --> 01:26:50,251
+¡Vamos!
+
+1024
+01:26:52,003 --> 01:26:53,129
+¡Vamos!
+
+1025
+01:27:11,564 --> 01:27:13,149
+Lo siento mucho.
+
+1026
+01:29:22,612 --> 01:29:25,073
+Estás loca, ¿lo sabes?
+
+1027
+01:30:12,996 --> 01:30:15,040
+Era un lugar hermoso.
+
+1028
+01:30:21,254 --> 01:30:22,505
+Sally.
+
+1029
+01:30:31,931 --> 01:30:33,475
+Emma.
+
+1030
+01:30:35,810 --> 01:30:36,936
+Es nuestro.
+
+1031
+01:31:00,418 --> 01:31:03,254
+No eres un tiburón.
+
+1032
+01:31:06,257 --> 01:31:07,926
+Dios mío. Ven aquí.
+
+1033
+01:31:08,843 --> 01:31:10,220
+Miya.
+
+1034
+01:31:17,894 --> 01:31:19,312
+Estás bien.
+
+1035
+01:31:21,648 --> 01:31:23,066
+Estás bien.
+
+1036
+01:31:26,069 --> 01:31:27,404
+¿Qué sucedió?
+
+1037
+01:31:37,580 --> 01:31:39,082
+¿Adónde vamos, Ems?
+
+1038
+01:31:43,586 --> 01:31:46,172
+¿Qué les parece la civilización?
+
+1039
+01:31:48,174 --> 01:31:51,678
+- Me encantaría ver cómo es.
+- A mí también.
+
+1040
+01:31:53,221 --> 01:31:54,889
+Hagámoslo.
+
+1041
+01:31:55,598 --> 01:31:57,475
+Ahora tendrás que estar con nosotras.
+
+1042
+01:31:59,436 --> 01:32:01,021
+Eso espero.
+
+1043
+01:32:02,022 --> 01:32:04,733
+El planeta no se salvará solo.
+
+1044
+01:39:51,533 --> 01:39:53,535
+Subtítulos: Ana Lucia Giraudo
+
+1045
+01:39:53,618 --> 01:39:58,456
+ALERTA EN LO PROFUNDO 3
+
